@@ -1,3 +1,5 @@
+-- Disable "Use Legacy SQL" under Google BigQuery to support CTEs
+
 WITH lake AS (
 SELECT
  LAKE_NAME AS LakeName
