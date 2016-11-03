@@ -28,7 +28,7 @@ WHERE
 ,'Winkler Lake','Meadow Lake','Cornelia Lake','Cedar Island Lake','Gaystock Lake')
   
 -- Best lakes: Top 10 lakes with highest Secchi depths
---  LAKE_NAME IN (,'West Boot Lake','Brickyard Clayhole Lake','Big Carnelian Lake','Jane Lake'
+--  LAKE_NAME IN ('West Boot Lake','Brickyard Clayhole Lake','Big Carnelian Lake','Jane Lake'
 -- ,'Halfbreed Lake' /*What the hell kind of name is this?!*/,'Little Long Lake','Mays Lake'
 -- ,'Christmas Lake','Little Carnelian Lake','Square Lake')
   
