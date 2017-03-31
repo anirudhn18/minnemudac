@@ -1,0 +1,2786 @@
+lake_name,yr,qlty
+Crane Lake,1993,3.0
+Cenaiko Lake,1998,4.0
+Cenaiko Lake,2010,3.0
+Cenaiko Lake,2002,4.0
+Cenaiko Lake,2003,4.0
+Cenaiko Lake,2001,3.0
+Cenaiko Lake,1997,3.0
+Cenaiko Lake,2008,3.0
+Cenaiko Lake,2007,4.0
+Cenaiko Lake,2009,3.0
+Cenaiko Lake,2000,4.0
+Cenaiko Lake,2005,4.0
+Cenaiko Lake,1999,4.0
+Cenaiko Lake,2004,4.0
+Cenaiko Lake,2006,4.0
+Cenaiko Lake,2012,3.0
+Cenaiko Lake,2011,3.0
+Lac Lavon Lake,2002,4.0
+Lac Lavon Lake,2004,4.0
+Lac Lavon Lake,2008,3.0
+Lac Lavon Lake,1997,4.0
+Lac Lavon Lake,2009,4.0
+Lac Lavon Lake,2012,4.0
+Lac Lavon Lake,2007,4.0
+Lac Lavon Lake,2010,4.0
+Lac Lavon Lake,1999,4.0
+Lac Lavon Lake,1998,4.0
+Lac Lavon Lake,2011,3.0
+Lac Lavon Lake,2005,4.0
+Lac Lavon Lake,2013,4.0
+Lac Lavon Lake,2014,4.0
+Lac Lavon Lake,2000,4.0
+Lac Lavon Lake,2003,4.0
+Lac Lavon Lake,2001,4.0
+Lac Lavon Lake,2006,4.0
+McKusick Lake,1999,1.0
+McKusick Lake,2003,2.0
+McKusick Lake,2013,2.0
+McKusick Lake,2000,3.0
+McKusick Lake,1994,1.0
+McKusick Lake,2002,2.0
+McKusick Lake,2014,2.0
+McKusick Lake,2011,2.0
+McKusick Lake,2008,2.0
+McKusick Lake,1998,1.0
+McKusick Lake,1995,1.0
+McKusick Lake,1996,1.0
+McKusick Lake,1997,2.0
+McKusick Lake,2006,2.0
+McKusick Lake,2007,2.0
+McKusick Lake,2004,3.0
+McKusick Lake,2010,3.0
+McKusick Lake,2001,3.0
+McKusick Lake,2012,3.0
+McKusick Lake,2005,2.0
+McKusick Lake,2009,3.0
+St. Joe Lake,2006,3.0
+St. Joe Lake,2011,4.0
+St. Joe Lake,2012,4.0
+St. Joe Lake,2009,3.0
+St. Joe Lake,2005,4.0
+St. Joe Lake,2010,4.0
+St. Joe Lake,2007,4.0
+St. Joe Lake,2014,4.0
+St. Joe Lake,2004,4.0
+St. Joe Lake,2008,4.0
+Colby Lake,1995,0.0
+Colby Lake,2006,0.0
+Colby Lake,2013,1.0
+Colby Lake,1994,1.0
+Colby Lake,2000,1.0
+Colby Lake,2011,1.0
+Colby Lake,1998,0.0
+Colby Lake,2008,0.0
+Colby Lake,2012,1.0
+Colby Lake,2005,1.0
+Colby Lake,1996,0.0
+Colby Lake,1997,1.0
+Colby Lake,1999,1.0
+Colby Lake,2002,1.0
+Colby Lake,2010,1.0
+Colby Lake,2007,1.0
+Colby Lake,2014,1.0
+Colby Lake,2001,0.0
+Colby Lake,2004,1.0
+Colby Lake,2003,0.0
+Valley Lake,2006,1.0
+Valley Lake,2011,2.0
+Valley Lake,2005,2.0
+Valley Lake,2010,1.0
+Valley Lake,1996,1.0
+Valley Lake,1997,2.0
+Valley Lake,2012,2.0
+Valley Lake,2004,2.0
+Valley Lake,2013,0.0
+Valley Lake,2014,2.0
+Valley Lake,2001,3.0
+Valley Lake,1995,1.0
+Valley Lake,2007,2.0
+Valley Lake,2009,3.0
+Valley Lake,2002,3.0
+Valley Lake,2000,2.0
+Valley Lake,2003,3.0
+Valley Lake,2008,2.0
+McKnight Lake,2010,0.0
+McKnight Lake,2006,0.0
+McKnight Lake,2014,1.0
+McKnight Lake,2013,1.0
+McKnight Lake,2012,0.0
+McKnight Lake,2009,0.0
+McKnight Lake,2008,0.0
+McKnight Lake,2011,0.0
+Kingsley Lake,2008,4.0
+Kingsley Lake,2000,4.0
+Kingsley Lake,2006,3.0
+Kingsley Lake,2010,4.0
+Kingsley Lake,2005,4.0
+Kingsley Lake,2001,3.0
+Kingsley Lake,2009,4.0
+Kingsley Lake,2007,4.0
+Kingsley Lake,2011,4.0
+Kingsley Lake,1996,4.0
+Kingsley Lake,2004,4.0
+Kingsley Lake,1997,4.0
+Kingsley Lake,2002,4.0
+Kingsley Lake,1995,3.0
+Kingsley Lake,2003,3.0
+Kingsley Lake,1993,4.0
+Kingsley Lake,2014,4.0
+Hornbean Lake,2007,2.0
+Hornbean Lake,2006,2.0
+Hornbean Lake,2008,3.0
+Powers Lake,1997,3.0
+Powers Lake,2010,2.0
+Powers Lake,2012,4.0
+Powers Lake,1998,2.0
+Powers Lake,1996,4.0
+Powers Lake,2013,4.0
+Powers Lake,1999,4.0
+Powers Lake,2009,3.0
+Powers Lake,2008,3.0
+Powers Lake,2002,2.0
+Powers Lake,1995,3.0
+Powers Lake,2003,3.0
+Powers Lake,2006,2.0
+Powers Lake,2014,3.0
+Powers Lake,2005,2.0
+Powers Lake,2011,2.0
+Powers Lake,1994,4.0
+Powers Lake,2007,2.0
+Powers Lake,2001,2.0
+Powers Lake,2004,2.0
+Powers Lake,2000,3.0
+Karth Lake,2014,3.0
+Karth Lake,2007,2.0
+Karth Lake,2009,2.0
+Karth Lake,2011,3.0
+Karth Lake,2012,3.0
+Karth Lake,2013,3.0
+Karth Lake,2008,2.0
+Karth Lake,2010,2.0
+South Rice Lake,2001,1.0
+South Rice Lake,2007,1.0
+South Rice Lake,2008,1.0
+South Rice Lake,2005,1.0
+South Rice Lake,2000,0.0
+South Rice Lake,2002,1.0
+South Rice Lake,2006,1.0
+South Rice Lake,2003,1.0
+South Rice Lake,2004,2.0
+Lost Lake,2007,2.0
+Lost Lake,2006,2.0
+Lost Lake,2008,3.0
+Simley Lake,1997,3.0
+Simley Lake,2000,2.0
+Simley Lake,1993,2.0
+Simley Lake,2002,2.0
+Simley Lake,1998,3.0
+Simley Lake,1999,2.0
+Simley Lake,1995,2.0
+Simley Lake,2012,2.0
+Simley Lake,2001,2.0
+Simley Lake,2013,2.0
+Simley Lake,1996,3.0
+Clear Lake,1999,3.0
+Clear Lake,1994,3.0
+Clear Lake,1980,2.0
+Clear Lake,1996,3.0
+Clear Lake,2006,2.0
+Clear Lake,2009,2.0
+Clear Lake,1984,2.0
+Clear Lake,1997,3.0
+Clear Lake,1995,3.0
+Clear Lake,1998,3.0
+Clear Lake,2003,3.0
+Clear Lake,2014,4.0
+Clear Lake,2010,4.0
+Clear Lake,2008,4.0
+Clear Lake,2002,3.0
+Clear Lake,2000,2.0
+Clear Lake,1993,2.0
+Clear Lake,2001,2.0
+Dan Patch Lake,1997,4.0
+East Lake,2013,1.0
+East Lake,2012,0.0
+East Lake,2005,0.0
+East Lake,2007,0.0
+East Lake,2014,2.0
+East Lake,2008,1.0
+East Lake,2011,0.0
+East Lake,2010,1.0
+Oneka Lake,2000,3.0
+Oneka Lake,1983,2.0
+Oneka Lake,1981,3.0
+Oneka Lake,1992,3.0
+Oneka Lake,2001,2.0
+Oneka Lake,1987,3.0
+Oneka Lake,1985,3.0
+Oneka Lake,1990,2.0
+Oneka Lake,2004,3.0
+Oneka Lake,2002,2.0
+Oneka Lake,1991,2.0
+Oneka Lake,2003,3.0
+Oneka Lake,1999,3.0
+Moody Lake,2010,1.0
+Moody Lake,2014,1.0
+Moody Lake,2005,1.0
+Moody Lake,2011,1.0
+Moody Lake,2012,1.0
+Moody Lake,2006,1.0
+Moody Lake,2013,1.0
+Elmo Lake,2005,4.0
+Elmo Lake,1982,3.0
+Elmo Lake,1981,4.0
+Elmo Lake,1994,4.0
+Elmo Lake,1984,3.0
+Elmo Lake,1988,4.0
+Elmo Lake,2006,4.0
+Elmo Lake,2008,4.0
+Elmo Lake,2010,4.0
+Elmo Lake,2013,4.0
+Elmo Lake,2009,4.0
+Elmo Lake,2012,4.0
+Elmo Lake,1980,3.0
+Elmo Lake,2014,4.0
+Elmo Lake,2007,4.0
+Elmo Lake,1991,4.0
+Elmo Lake,2011,3.0
+Lower Prior Lake,2010,3.0
+Lower Prior Lake,1999,3.0
+Lower Prior Lake,1997,4.0
+Lower Prior Lake,2002,2.5
+Lower Prior Lake,2009,4.0
+Lower Prior Lake,2003,3.0
+Lower Prior Lake,2005,4.0
+Lower Prior Lake,2006,3.0
+Lower Prior Lake,2011,4.0
+Lower Prior Lake,2001,2.5
+Lower Prior Lake,2008,3.0
+Lower Prior Lake,2007,3.0
+Lower Prior Lake,2013,4.0
+Lower Prior Lake,1998,2.5
+Lower Prior Lake,1996,3.0
+Lower Prior Lake,1992,2.0
+Lower Prior Lake,2004,3.0
+Lower Prior Lake,1980,2.0
+Lower Prior Lake,2000,3.0
+Lower Prior Lake,2014,3.0
+Lower Prior Lake,1984,3.0
+Lower Prior Lake,2012,4.0
+Levander Pond,2010,0.0
+Levander Pond,2011,0.0
+Grass Lake,1997,0.0
+Gaystock Lake,2006,0.0
+Gaystock Lake,2001,0.0
+Gaystock Lake,2005,0.0
+Gaystock Lake,2000,1.0
+Keller Lake,2002,2.0
+Keller Lake,2010,1.0
+Keller Lake,2004,2.0
+Keller Lake,2013,1.0
+Keller Lake,2001,1.0
+Keller Lake,2007,2.0
+Keller Lake,1997,1.0
+Keller Lake,1998,3.0
+Keller Lake,2009,1.0
+Keller Lake,2008,3.0
+Keller Lake,2005,2.0
+Keller Lake,1999,1.0
+Keller Lake,2003,1.0
+Keller Lake,2011,1.0
+Keller Lake,2012,1.0
+Keller Lake,1996,1.0
+Keller Lake,2014,1.0
+Keller Lake,2006,1.0
+Keller Lake,2000,1.0
+Langton Lake,2006,2.0
+Deeg Lake,2001,1.0
+Hay Lake,2009,2.0
+Hay Lake,2000,1.0
+Hay Lake,2011,2.0
+Hay Lake,1999,1.0
+Hay Lake,2005,1.0
+Hay Lake,2006,2.0
+Hay Lake,2004,1.0
+Hay Lake,2010,2.0
+Hay Lake,2001,1.0
+Hay Lake,1998,1.0
+Hay Lake,2007,2.0
+Hay Lake,2008,2.0
+Hay Lake,2003,2.0
+McCarrons Lake,1994,3.0
+McCarrons Lake,1995,2.0
+McCarrons Lake,1993,2.0
+McCarrons Lake,2001,3.0
+McCarrons Lake,2000,2.0
+McCarrons Lake,2004,2.0
+McCarrons Lake,1986,3.0
+McCarrons Lake,1985,2.0
+McCarrons Lake,1984,3.0
+McCarrons Lake,2002,2.0
+McCarrons Lake,1989,2.0
+McCarrons Lake,1988,2.0
+McCarrons Lake,1991,2.0
+McCarrons Lake,1999,2.0
+McCarrons Lake,1987,2.0
+McCarrons Lake,1996,2.0
+McCarrons Lake,2005,4.0
+Schmidt Lake,2001,2.0
+Schmidt Lake,1995,2.0
+Schmidt Lake,2011,4.0
+Schmidt Lake,2005,2.0
+Schmidt Lake,2004,2.0
+Schmidt Lake,1998,2.0
+Schmidt Lake,2007,3.0
+Schmidt Lake,2000,2.0
+Maple Marsh Lake,2001,1.0
+Maple Marsh Lake,1998,0.0
+Maple Marsh Lake,1997,1.0
+Maple Marsh Lake,1999,1.0
+Maple Marsh Lake,2000,1.0
+Maple Marsh Lake,2007,1.0
+Edina Lake,2005,1.0
+Edina Lake,2004,1.0
+Markgraf Lake,2001,1.0
+Markgraf Lake,1995,2.0
+Markgraf Lake,1999,1.0
+Markgraf Lake,2012,0.0
+Markgraf Lake,2003,1.0
+Markgraf Lake,2002,1.0
+Markgraf Lake,2009,0.0
+Markgraf Lake,2008,1.0
+Markgraf Lake,1994,1.0
+Markgraf Lake,2010,0.0
+Markgraf Lake,2005,1.0
+Markgraf Lake,1996,2.0
+Markgraf Lake,2007,1.0
+Markgraf Lake,1998,0.0
+Markgraf Lake,2000,2.0
+Markgraf Lake,2011,1.0
+Markgraf Lake,2004,1.0
+Markgraf Lake,2006,0.0
+Markgraf Lake,1997,1.0
+Markgraf Lake,2013,1.0
+Markgraf Lake,2014,1.0
+Big Carnelian Lake,1980,4.0
+Big Carnelian Lake,1997,4.0
+Big Carnelian Lake,1994,4.0
+Big Carnelian Lake,2013,4.0
+Big Carnelian Lake,2007,4.0
+Big Carnelian Lake,2010,4.0
+Big Carnelian Lake,1991,4.0
+Big Carnelian Lake,1996,4.0
+Big Carnelian Lake,2012,4.0
+Big Carnelian Lake,1998,4.0
+Big Carnelian Lake,2000,4.0
+Big Carnelian Lake,1999,3.0
+Big Carnelian Lake,2001,4.0
+Big Carnelian Lake,1984,3.0
+Big Carnelian Lake,2002,4.0
+Big Carnelian Lake,2014,4.0
+Big Carnelian Lake,2006,4.0
+Big Carnelian Lake,2004,4.0
+Big Carnelian Lake,2005,4.0
+Big Carnelian Lake,1989,4.0
+Big Carnelian Lake,2003,3.0
+Coon Lake,1994,3.0
+Coon Lake,1984,2.0
+Coon Lake,1980,2.0
+Coon Lake,1997,3.0
+Hidden Lake,2011,3.0
+Hart Lake,2006,0.0
+Hart Lake,2005,0.0
+Long Lake,1995,1.5
+Long Lake,1993,2.5
+Long Lake,1994,2.0
+Long Lake,1996,1.5
+Long Lake,2003,1.5714285714285714
+Long Lake,1984,2.0
+Twin Lake,1985,3.0
+Parkers Lake,2000,4.0
+Parkers Lake,2008,3.0
+Parkers Lake,2004,3.0
+Parkers Lake,2006,3.0
+Parkers Lake,1980,2.0
+Parkers Lake,2012,3.0
+Parkers Lake,2005,3.0
+Parkers Lake,2009,3.0
+Parkers Lake,2007,3.0
+Parkers Lake,1995,2.0
+Parkers Lake,2002,4.0
+Parkers Lake,2010,4.0
+Parkers Lake,2003,3.0
+Parkers Lake,1999,2.0
+Cedar Lake,1984,1.0
+Cedar Lake,2005,2.0
+Cedar Lake,1998,1.0
+Cedar Lake,1981,1.0
+Cedar Lake,1980,0.0
+Cedar Lake,1993,1.0
+Cedar Lake,2001,0.0
+Rose Lake,2006,1.0
+Rose Lake,2007,1.0
+Priebe Lake,2008,0.0
+Priebe Lake,2011,1.0
+Priebe Lake,2012,0.0
+Priebe Lake,2009,1.0
+Ardmore Lake,2010,0.0
+Ardmore Lake,2009,0.0
+Ardmore Lake,2007,0.0
+Ardmore Lake,2008,0.0
+Marshan Lake,1985,1.0
+Marshan Lake,1987,0.0
+Marshan Lake,2001,0.0
+Marshan Lake,1983,1.0
+Marshan Lake,1996,0.0
+Marshan Lake,1989,1.0
+Marshan Lake,1998,1.0
+Marshan Lake,1999,0.0
+Marshan Lake,1990,1.0
+Marshan Lake,1981,1.0
+Marshan Lake,1988,1.0
+Marshan Lake,2000,0.0
+Marshan Lake,1997,0.0
+Jane Lake,2007,4.0
+Jane Lake,2005,4.0
+Jane Lake,1987,3.0
+Jane Lake,2009,4.0
+Jane Lake,2006,4.0
+Jane Lake,1986,3.0
+Jane Lake,1991,3.0
+Jane Lake,2008,4.0
+Jane Lake,2000,4.0
+Jane Lake,2011,4.0
+Jane Lake,2010,4.0
+Jane Lake,1994,4.0
+Jane Lake,1984,2.0
+Jane Lake,2004,4.0
+Windsor Lake,2005,1.0
+Windsor Lake,2004,0.0
+Carver Lake,1987,1.0
+Carver Lake,1995,2.0
+Carver Lake,1996,3.0
+Carver Lake,1986,2.0
+Carver Lake,1994,2.0
+Carver Lake,1984,2.0
+Carver Lake,1988,2.0
+Carver Lake,1993,2.0
+Carver Lake,1983,2.0
+Carver Lake,1985,2.0
+Gables Lake,1999,1.0
+Gables Lake,1998,1.0
+Kramer Pond,2008,0.0
+Kramer Pond,2012,0.0
+Kramer Pond,2013,1.0
+Kramer Pond,2009,0.0
+Kramer Pond,2010,0.0
+Kramer Pond,2014,0.0
+Mergens Pond,2008,0.0
+Mergens Pond,2005,2.0
+Mergens Pond,2000,1.0
+German Lake,2003,3.0
+German Lake,2004,3.0
+German Lake,2005,3.0
+German Lake,2002,3.0
+German Lake,2007,3.0
+German Lake,2006,3.0
+East Boot Lake,2001,2.0
+East Boot Lake,1996,3.0
+East Boot Lake,2007,3.0
+East Boot Lake,2006,3.0
+East Boot Lake,2013,4.0
+East Boot Lake,2000,2.0
+East Boot Lake,2009,4.0
+East Boot Lake,2004,3.0
+East Boot Lake,2003,2.0
+East Boot Lake,2011,3.0
+East Boot Lake,2005,3.0
+East Boot Lake,2014,4.0
+East Boot Lake,1999,2.0
+East Boot Lake,2012,3.0
+East Boot Lake,1997,3.0
+East Boot Lake,1998,3.0
+East Boot Lake,2008,3.0
+East Boot Lake,2002,2.0
+East Boot Lake,2010,4.0
+Reshanau Lake,2013,1.0
+Reshanau Lake,2007,1.0
+Reshanau Lake,2008,1.0
+Reshanau Lake,2012,1.0
+Reshanau Lake,2009,1.0
+Reshanau Lake,2006,1.0
+Reshanau Lake,2011,1.0
+Reshanau Lake,2010,1.0
+Jellums Lake,1996,1.0
+Jellums Lake,2007,2.0
+Jellums Lake,2006,1.0
+Jellums Lake,2010,2.0
+Jellums Lake,1997,1.0
+Jellums Lake,2001,1.0
+Jellums Lake,2011,2.0
+Jellums Lake,2000,0.0
+Jellums Lake,2005,1.0
+Jellums Lake,1998,1.0
+Jellums Lake,1999,1.0
+Jellums Lake,2009,3.0
+Jellums Lake,2008,2.0
+Jellums Lake,2003,1.0
+Jellums Lake,2002,1.0
+Jellums Lake,2004,1.0
+Weber Pond,2006,2.0
+Weber Pond,2010,3.0
+Weber Pond,2009,3.0
+Horseshoe Lake,1996,2.0
+Horseshoe Lake,2009,2.3333333333333335
+Horseshoe Lake,2007,3.0
+Horseshoe Lake,2014,2.0
+Horseshoe Lake,2011,3.0
+Horseshoe Lake,2006,3.0
+Horseshoe Lake,2010,2.5
+Horseshoe Lake,1995,3.0
+Horseshoe Lake,2008,3.0
+Horseshoe Lake,2012,2.0
+Horseshoe Lake,2013,2.0
+Jackson WMA,2010,2.0
+Jackson WMA,2011,2.0
+Jackson WMA,2013,3.0
+Jackson WMA,2014,2.0
+Jackson WMA,2012,2.0
+DuBay Lake,2013,3.0
+DuBay Lake,2012,3.0
+Battle Creek Lake,1993,2.0
+Battle Creek Lake,1994,2.0
+Battle Creek Lake,1996,2.0
+Battle Creek Lake,1995,2.0
+Little Comfort Lake,1994,2.0
+Little Comfort Lake,2007,3.0
+Little Comfort Lake,2010,3.0
+Little Comfort Lake,2006,2.0
+Little Comfort Lake,2009,3.0
+Little Comfort Lake,2011,2.0
+Little Comfort Lake,2008,2.0
+Little Comfort Lake,2012,2.0
+Little Comfort Lake,2013,2.0
+Little Comfort Lake,2014,2.0
+Lucy Lake,2012,2.0
+Lucy Lake,1985,2.0
+Lucy Lake,2013,2.0
+Lucy Lake,2009,2.0
+Lucy Lake,2014,2.0
+Lucy Lake,2010,2.0
+Lucy Lake,2011,2.0
+Byllesby Lake,2014,1.0
+Byllesby Lake,2013,1.0
+Normandale Lake,2011,2.0
+Normandale Lake,2006,2.0
+Normandale Lake,2009,3.0
+Normandale Lake,2007,3.0
+Normandale Lake,2010,2.0
+Normandale Lake,2012,2.0
+Lily Lake,2006,2.0
+Lily Lake,2013,3.0
+Lily Lake,2001,3.0
+Lily Lake,2004,2.0
+Lily Lake,2010,3.0
+Lily Lake,1997,2.0
+Lily Lake,2003,2.0
+Lily Lake,2012,2.0
+Lily Lake,1998,2.0
+Lily Lake,2009,3.0
+Lily Lake,1996,2.0
+Lily Lake,2005,2.0
+Lily Lake,2007,2.0
+Lily Lake,2008,2.0
+Lily Lake,2014,4.0
+Lily Lake,1995,3.0
+Lily Lake,1999,2.0
+Lily Lake,2000,2.0
+Lily Lake,2002,2.0
+Hafften Lake,2014,2.0
+Hafften Lake,2013,2.0
+Hafften Lake,2006,2.0
+Hafften Lake,2010,2.0
+Hafften Lake,2001,2.0
+Hafften Lake,2004,2.0
+Hafften Lake,2005,2.0
+Hafften Lake,2000,2.0
+Carol Lake,2007,3.0
+Carol Lake,1999,3.0
+Carol Lake,2005,2.0
+Carol Lake,1996,3.0
+Carol Lake,1998,3.0
+Carol Lake,2004,2.0
+Carol Lake,2006,2.0
+Carol Lake,1997,3.0
+Carol Lake,2001,3.0
+Carol Lake,2000,3.0
+Carol Lake,2003,2.0
+Stieger Lake,1989,2.0
+Stieger Lake,1984,3.0
+Stieger Lake,1995,3.0
+Fireman's Clayhole Lake,2005,4.0
+Fireman's Clayhole Lake,2004,4.0
+Fireman's Clayhole Lake,2009,3.0
+Fireman's Clayhole Lake,2001,4.0
+Fireman's Clayhole Lake,2003,4.0
+Fireman's Clayhole Lake,2013,3.0
+Fireman's Clayhole Lake,2011,4.0
+Fireman's Clayhole Lake,2007,4.0
+Fireman's Clayhole Lake,2010,3.0
+Fireman's Clayhole Lake,2012,3.0
+Fireman's Clayhole Lake,2002,4.0
+Fireman's Clayhole Lake,2006,3.0
+Fireman's Clayhole Lake,2014,4.0
+Fireman's Clayhole Lake,2008,4.0
+Tanners Lake,1983,3.0
+Tanners Lake,1987,3.0
+Tanners Lake,1995,3.0
+Tanners Lake,1984,2.0
+Tanners Lake,1985,3.0
+Tanners Lake,1988,3.0
+Tanners Lake,1980,3.0
+Tanners Lake,1986,3.0
+Tanners Lake,1993,3.0
+Tanners Lake,1994,3.0
+Tanners Lake,1996,3.0
+Cedar Lake,2011,1.0
+Cedar Lake,2006,1.0
+Cedar Lake,2007,1.0
+Cedar Lake,2008,1.0
+Cedar Lake,2010,1.0
+Bush Lake,1994,4.0
+Bush Lake,2011,4.0
+Bush Lake,2006,4.0
+Bush Lake,2001,4.0
+Bush Lake,2004,3.0
+Bush Lake,2010,4.0
+Bush Lake,1993,4.0
+Bush Lake,2009,4.0
+Bush Lake,2012,3.0
+Bush Lake,2013,4.0
+Bush Lake,1984,4.0
+Bush Lake,2007,3.0
+Bush Lake,1983,3.0
+Bush Lake,1999,3.0
+Bush Lake,2008,4.0
+Bush Lake,2014,4.0
+Zumbra Lake,1984,3.0
+Zumbra Lake,2002,3.0
+Bass Lake,2008,2.5
+Bass Lake,2006,2.6666666666666665
+Bass Lake,2013,3.0
+Bass Lake,2007,2.5
+Bass Lake,2009,2.3333333333333335
+Bass Lake,2010,2.5
+Bass Lake,2011,2.6666666666666665
+Bass Lake,2012,3.3333333333333335
+Bass Lake,2014,3.0
+Riley Lake,1981,2.0
+Riley Lake,1980,2.0
+Pike Lake,2000,1.3333333333333333
+Pike Lake,2001,1.0
+Pike Lake,2002,0.6666666666666666
+Pike Lake,1999,1.0
+Pike Lake,2005,0.5
+Pike Lake,2004,0.5
+Pike Lake,2006,1.0
+Pike Lake,1998,1.0
+Pike Lake,2007,1.5
+Pike Lake,2011,2.0
+Pike Lake,1997,2.0
+Pike Lake,2003,0.5
+Pike Lake,1996,2.0
+Pike Lake,2008,1.0
+Pike Lake,2009,1.0
+Marcott Lake,2013,3.0
+Marcott Lake,1999,4.0
+Marcott Lake,2002,3.0
+Marcott Lake,1995,3.0
+Marcott Lake,2012,3.0
+Marcott Lake,2000,4.0
+Marcott Lake,2001,4.0
+Marcott Lake,1996,4.0
+Marcott Lake,1997,4.0
+Marcott Lake,1998,4.0
+Marcott Lake,1993,2.0
+Cowley Lake,2006,0.0
+Cowley Lake,2007,1.0
+Cowley Lake,2010,2.0
+Hydes Lake,1996,1.0
+Hydes Lake,2003,2.0
+Hydes Lake,2010,2.0
+Hydes Lake,2000,1.0
+Hydes Lake,2002,1.0
+Hydes Lake,2008,0.0
+Hydes Lake,2006,1.0
+Hydes Lake,1985,1.0
+Hydes Lake,1999,1.0
+Hydes Lake,2005,1.0
+Hydes Lake,2011,2.0
+Hydes Lake,2009,1.0
+Hydes Lake,1991,1.0
+Hydes Lake,2001,2.0
+Hydes Lake,2004,1.0
+Hydes Lake,2007,1.0
+Hydes Lake,2014,2.0
+Hydes Lake,1993,1.0
+Hydes Lake,2012,2.0
+Hydes Lake,2013,2.0
+Meuwissen Lake,2008,0.0
+Cates Lake,2011,3.0
+Cates Lake,2004,3.0
+Cates Lake,2009,3.0
+Cates Lake,2007,3.0
+Cates Lake,2003,3.0
+Cates Lake,2013,3.0
+Cates Lake,2008,3.0
+Cates Lake,2006,3.0
+Cates Lake,2010,4.0
+Cates Lake,2002,3.0
+Cates Lake,2005,3.0
+Isabelle Lake,1994,0.0
+Holland Lake,1985,2.0
+Holland Lake,1984,2.0
+Holland Lake,1988,3.0
+Holland Lake,1983,2.0
+Holland Lake,1993,4.0
+Holland Lake,1999,4.0
+Hazeltine Lake,2009,0.0
+Hazeltine Lake,2012,0.0
+Hazeltine Lake,2014,0.0
+Hazeltine Lake,2001,0.0
+Hazeltine Lake,2011,0.0
+Hazeltine Lake,2013,0.0
+Hazeltine Lake,2006,0.0
+Hazeltine Lake,2005,0.0
+Hazeltine Lake,2000,0.0
+Hazeltine Lake,2010,0.0
+Goose Lake,1996,1.6666666666666667
+Shavers Lake,2006,2.0
+Chub Lake,1994,1.0
+Chub Lake,1980,1.0
+Chub Lake,2011,0.0
+Chub Lake,1995,1.0
+Chub Lake,1993,1.0
+Brickyard Clayhole Lake,2002,4.0
+Brickyard Clayhole Lake,2011,4.0
+Brickyard Clayhole Lake,2004,4.0
+Brickyard Clayhole Lake,2008,4.0
+Brickyard Clayhole Lake,2003,4.0
+Brickyard Clayhole Lake,2012,4.0
+Brickyard Clayhole Lake,2005,4.0
+Brickyard Clayhole Lake,2014,4.0
+Brickyard Clayhole Lake,2009,4.0
+Brickyard Clayhole Lake,2010,4.0
+Brickyard Clayhole Lake,2007,4.0
+Brickyard Clayhole Lake,2006,4.0
+Brickyard Clayhole Lake,2013,4.0
+Independence Lake,1993,3.0
+Independence Lake,1980,1.0
+Independence Lake,1981,2.0
+Independence Lake,1994,2.0
+Medicine Lake,2012,2.0
+Medicine Lake,2011,2.0
+Medicine Lake,2014,2.0
+Medicine Lake,1991,2.0
+Medicine Lake,2013,2.0
+Medicine Lake,2010,2.0
+Medicine Lake,1990,2.0
+Medicine Lake,1981,2.0
+Medicine Lake,1983,2.0
+Wilmes Lake,1996,2.0
+Wilmes Lake,1999,2.0
+Wilmes Lake,2007,2.0
+Wilmes Lake,2009,2.0
+Wilmes Lake,1995,2.0
+Wilmes Lake,2012,2.0
+Wilmes Lake,1994,3.0
+Wilmes Lake,2013,2.0
+Wilmes Lake,2008,2.0
+Wilmes Lake,2002,1.0
+Wilmes Lake,1998,1.0
+Wilmes Lake,2003,2.0
+Wilmes Lake,2005,1.0
+Wilmes Lake,2011,2.0
+Wilmes Lake,1997,1.0
+Wilmes Lake,2004,2.0
+Wilmes Lake,2000,2.0
+Wilmes Lake,2006,2.0
+Wilmes Lake,2010,2.0
+Wilmes Lake,2001,1.0
+Wilmes Lake,2014,2.0
+Mays Lake,2008,4.0
+Mays Lake,2009,4.0
+Mays Lake,2010,4.0
+Mays Lake,2014,4.0
+Ham Lake,1993,4.0
+Ham Lake,1994,3.0
+Ham Lake,1998,3.0
+Ham Lake,1984,3.0
+Ham Lake,1997,4.0
+Ham Lake,1996,4.0
+Pomerleau Lake,2003,1.0
+Pomerleau Lake,1999,2.0
+Pomerleau Lake,1996,2.0
+Pomerleau Lake,2014,2.0
+Pomerleau Lake,2001,2.0
+Wood Lake,2003,2.0
+Wood Lake,2006,2.0
+Wood Lake,2007,2.0
+Wood Lake,2008,2.0
+Wood Lake,2010,2.0
+Wood Lake,2002,2.0
+Wood Lake,2004,2.0
+Wood Lake,2011,3.0
+Wood Lake,2001,2.0
+Wood Lake,2005,2.0
+Wood Lake,1996,2.0
+Wood Lake,2012,1.0
+Wood Lake,2013,3.0
+Wood Lake,1999,2.0
+Wood Lake,2009,2.0
+Wood Lake,1997,2.0
+Wood Lake,2000,2.0
+Wood Lake,2014,2.0
+Wood Lake,1998,3.0
+Friedrich's Pond,2008,1.0
+Friedrich's Pond,2006,0.0
+Friedrich's Pond,2007,0.0
+Peter Lake,2009,3.0
+Libbs Lake,2004,3.0
+DeMontreville Lake,2012,4.0
+DeMontreville Lake,2003,4.0
+DeMontreville Lake,1993,3.0
+DeMontreville Lake,2005,3.0
+DeMontreville Lake,2006,3.0
+DeMontreville Lake,2000,4.0
+DeMontreville Lake,2010,3.0
+DeMontreville Lake,1984,2.0
+DeMontreville Lake,1995,3.0
+DeMontreville Lake,1980,2.0
+DeMontreville Lake,2008,4.0
+DeMontreville Lake,2011,4.0
+DeMontreville Lake,1991,2.0
+DeMontreville Lake,2013,4.0
+DeMontreville Lake,2007,2.0
+DeMontreville Lake,2004,4.0
+DeMontreville Lake,2009,3.0
+DeMontreville Lake,2014,4.0
+Lake Forest,2009,0.0
+Lake Forest,2008,0.0
+Pike Lake,1986,2.0
+Pike Lake,1981,1.0
+Pike Lake,1983,2.0
+Pike Lake,1990,1.0
+Pike Lake,1987,1.0
+Pike Lake,1988,1.0
+Pike Lake,1982,1.0
+Pike Lake,1985,2.0
+Pike Lake,1989,1.0
+Pike Lake,1991,0.0
+Upper Prior Lake,1998,1.0
+Upper Prior Lake,2013,2.0
+Upper Prior Lake,2011,2.0
+Upper Prior Lake,1984,1.0
+Upper Prior Lake,2010,2.0
+Upper Prior Lake,2002,1.0
+Upper Prior Lake,1981,1.0
+Upper Prior Lake,2005,2.0
+Upper Prior Lake,1980,1.0
+Upper Prior Lake,1999,1.0
+Upper Prior Lake,2003,2.0
+Upper Prior Lake,2006,1.0
+Upper Prior Lake,2012,1.0
+Upper Prior Lake,2009,2.0
+Upper Prior Lake,2007,1.0
+Upper Prior Lake,2001,1.0
+Upper Prior Lake,2008,2.0
+Upper Prior Lake,1997,2.0
+Upper Prior Lake,2004,1.0
+Upper Prior Lake,2000,1.0
+Upper Prior Lake,1996,2.0
+Upper Prior Lake,1989,1.0
+Regional Park Lake,2007,2.0
+Regional Park Lake,2000,1.0
+Regional Park Lake,2006,2.0
+Regional Park Lake,2013,2.0
+Regional Park Lake,2003,1.0
+Regional Park Lake,2008,2.0
+Regional Park Lake,2012,1.0
+Regional Park Lake,2002,1.0
+Regional Park Lake,2010,2.0
+Regional Park Lake,1999,2.0
+Regional Park Lake,2011,2.0
+Regional Park Lake,2005,2.0
+Regional Park Lake,1998,1.0
+Regional Park Lake,2001,1.0
+Regional Park Lake,2009,3.0
+Regional Park Lake,2004,2.0
+Regional Park Lake,2014,2.0
+Silver Lake,1992,3.0
+Silver Lake,1994,4.0
+Silver Lake,1999,2.0
+Silver Lake,2008,2.0
+Silver Lake,2000,2.5
+Silver Lake,2001,2.5
+Silver Lake,1993,3.0
+Silver Lake,2005,3.5
+Silver Lake,2004,3.0
+Silver Lake,2006,2.5
+Silver Lake,2003,3.0
+Silver Lake,1990,3.0
+Silver Lake,2009,3.0
+Silver Lake,1991,3.0
+Silver Lake,1986,2.0
+Silver Lake,1989,3.0
+Silver Lake,1996,3.0
+Silver Lake,1997,3.0
+Silver Lake,1998,3.0
+Silver Lake,2007,2.0
+Silver Lake,1995,3.0
+Silver Lake,1985,3.0
+Silver Lake,2002,3.0
+Silver Lake,1987,3.0
+Silver Lake,1984,2.0
+Silver Lake,1988,3.0
+Sunset Pond,1994,3.0
+Sunset Pond,2003,2.0
+Sunset Pond,2008,3.0
+Sunset Pond,2007,3.0
+Sunset Pond,2004,3.0
+Sunset Pond,2006,2.0
+Sunset Pond,2002,3.0
+Sunset Pond,2009,3.0
+Sunset Pond,2013,3.0
+Sunset Pond,2014,3.0
+Sunset Pond,1997,2.0
+Sunset Pond,1998,3.0
+Sunset Pond,2010,3.0
+Sunset Pond,2001,3.0
+Sunset Pond,2000,3.0
+Sunset Pond,2011,3.0
+Sunset Pond,1995,2.0
+Sunset Pond,2012,3.0
+Sunset Pond,1996,2.0
+Benton Lake,2003,0.0
+Benton Lake,2008,0.0
+Benton Lake,2011,0.0
+Benton Lake,2010,1.0
+Benton Lake,2000,0.0
+Benton Lake,2001,0.0
+Benton Lake,1999,0.0
+Benton Lake,2012,0.0
+Benton Lake,2007,0.0
+Benton Lake,2013,0.0
+Benton Lake,2009,0.0
+Benton Lake,2014,0.0
+Benton Lake,2005,0.0
+Benz Lake,2008,2.0
+Benz Lake,2006,1.0
+Benz Lake,2012,1.0
+Benz Lake,2007,0.0
+Benz Lake,2005,0.0
+Benz Lake,2009,1.0
+Benz Lake,2010,1.0
+Benz Lake,2011,2.0
+Fish Lake,2008,2.0
+Fish Lake,2011,2.25
+Fish Lake,2002,1.0
+Fish Lake,2004,1.5
+Fish Lake,2013,2.0
+Fish Lake,2005,1.5
+Fish Lake,2012,1.3333333333333333
+Fish Lake,2003,1.3333333333333333
+Fish Lake,2007,2.0
+Fish Lake,2009,2.0
+Fish Lake,2010,1.3333333333333333
+Fish Lake,2006,1.5
+Big Woods Lake,2014,0.0
+Masterman Lake,2007,2.0
+Masterman Lake,2006,2.0
+Masterman Lake,2009,2.0
+Masterman Lake,2011,2.0
+Masterman Lake,2008,2.0
+Masterman Lake,2010,2.0
+North Twin Lake,1999,3.0
+North Twin Lake,2006,3.0
+North Twin Lake,2003,3.0
+North Twin Lake,2007,2.0
+North Twin Lake,1996,2.0
+North Twin Lake,2005,3.0
+North Twin Lake,1997,3.0
+North Twin Lake,2000,3.0
+North Twin Lake,1998,2.0
+North Twin Lake,2004,3.0
+North Twin Lake,2001,3.0
+Rice Elm Lake,2009,0.0
+Rice Elm Lake,2010,1.0
+Rice Elm Lake,2007,0.0
+Rice Elm Lake,2008,1.0
+Rice Elm Lake,2011,1.0
+Reitz Lake,2005,2.0
+Reitz Lake,2000,2.0
+Reitz Lake,1991,1.0
+Reitz Lake,2002,2.0
+Reitz Lake,2013,2.0
+Reitz Lake,2003,2.0
+Reitz Lake,2007,3.0
+Reitz Lake,2004,2.0
+Reitz Lake,2009,2.0
+Reitz Lake,1985,1.0
+Reitz Lake,2011,2.0
+Reitz Lake,2008,2.0
+Reitz Lake,1999,2.0
+Reitz Lake,2012,1.0
+Reitz Lake,2001,1.0
+Reitz Lake,1993,1.0
+Reitz Lake,2014,2.0
+Reitz Lake,2006,2.0
+Reitz Lake,2010,3.0
+Tamarack Lake,2003,2.0
+Tamarack Lake,2005,2.0
+Tamarack Lake,2008,3.0
+Tamarack Lake,2004,2.0
+Tamarack Lake,2002,3.0
+Tamarack Lake,2006,2.0
+Tamarack Lake,2007,3.0
+Tamarack Lake,2001,3.0
+Tamarack Lake,2009,3.0
+Tamarack Lake,2000,2.0
+South Oak Lake,2009,2.0
+South Oak Lake,2011,2.0
+South Oak Lake,2008,0.0
+South Oak Lake,2003,1.0
+South Oak Lake,2007,0.0
+South Oak Lake,2013,1.0
+South Oak Lake,2012,1.0
+South Oak Lake,2006,1.0
+South Oak Lake,2002,1.0
+Ann Lake,1985,4.0
+Ann Lake,2009,3.0
+Ann Lake,2012,4.0
+Ann Lake,2010,4.0
+Ann Lake,1989,3.0
+Ann Lake,2002,4.0
+Turtle Lake,2003,2.0
+Turtle Lake,1991,0.0
+Turtle Lake,1999,2.0
+Turtle Lake,1997,1.0
+Turtle Lake,2001,2.0
+Turtle Lake,1992,0.0
+Turtle Lake,1998,1.0
+Turtle Lake,2000,2.0
+Turtle Lake,1996,1.0
+Little Long Lake,2012,4.0
+Little Long Lake,2006,3.0
+Little Long Lake,1984,4.0
+Little Long Lake,2003,4.0
+Little Long Lake,1998,4.0
+Little Long Lake,2010,4.0
+Little Long Lake,2001,4.0
+Little Long Lake,1980,4.0
+Little Long Lake,2009,4.0
+Little Long Lake,2007,4.0
+Rutz Lake,2011,1.0
+Rutz Lake,2008,0.0
+Rutz Lake,2009,0.0
+Rutz Lake,2007,0.0
+Rutz Lake,2000,1.0
+Rutz Lake,2006,1.0
+Earley Lake,1996,2.0
+Earley Lake,2012,3.0
+Earley Lake,1994,2.0
+Earley Lake,1998,2.0
+Earley Lake,1995,2.0
+Earley Lake,2011,3.0
+Earley Lake,2000,2.0
+Earley Lake,2010,2.0
+Earley Lake,2002,2.0
+Earley Lake,2006,3.0
+Earley Lake,2008,3.0
+Earley Lake,2014,3.0
+Earley Lake,2001,2.0
+Earley Lake,1999,2.0
+Earley Lake,2004,2.0
+Earley Lake,2007,2.0
+Earley Lake,2003,2.0
+Earley Lake,2013,2.0
+Earley Lake,2005,2.0
+Earley Lake,2009,3.0
+Earley Lake,1997,2.0
+Sylvan Lake,2014,0.0
+Sylvan Lake,2008,1.0
+Sylvan Lake,2013,1.0
+Sylvan Lake,2012,0.0
+Virginia Lake,2001,2.0
+Virginia Lake,2003,2.0
+Virginia Lake,2005,2.0
+Virginia Lake,2000,2.0
+Virginia Lake,2004,2.0
+Virginia Lake,2002,2.0
+Schroeder Pond,2006,2.0
+Schroeder Pond,2004,3.0
+Schroeder Pond,2007,2.0
+Schroeder Pond,2005,1.0
+Lost Lake,1993,0.0
+Northwood Lake,2011,1.0
+Northwood Lake,2010,1.0
+Northwood Lake,2005,2.0
+Northwood Lake,2009,1.0
+Northwood Lake,2012,1.0
+Northwood Lake,2003,1.0
+Northwood Lake,2013,1.0
+Northwood Lake,2007,1.0
+Northwood Lake,2004,2.0
+Northwood Lake,2008,1.0
+Northwood Lake,2000,1.0
+Northwood Lake,2006,1.0
+Northwood Lake,2001,1.0
+Northwood Lake,2002,2.0
+Jubert Lake,2000,1.0
+Bass Lake,1997,2.0
+Bass Lake,1999,2.0
+Bass Lake,1992,3.0
+Bass Lake,1991,2.0
+Bass Lake,1998,2.0
+Goetschel Lake,2004,3.0
+Goetschel Lake,2002,3.0
+Goetschel Lake,2008,3.0
+Goetschel Lake,2010,3.0
+Goetschel Lake,2007,3.0
+Goetschel Lake,2005,3.0
+Goetschel Lake,2006,3.0
+Goetschel Lake,2009,2.0
+Goetschel Lake,2003,3.0
+Seidl Lake,2010,2.0
+Seidl Lake,1991,2.0
+Seidl Lake,2003,2.0
+Seidl Lake,2004,2.0
+Seidl Lake,1999,1.0
+Seidl Lake,1995,3.0
+Seidl Lake,2002,1.0
+Seidl Lake,2001,2.0
+Seidl Lake,2000,2.0
+Seidl Lake,1998,2.0
+Seidl Lake,2005,2.0
+Seidl Lake,2006,1.0
+Seidl Lake,1996,3.0
+Seidl Lake,1997,2.0
+Seidl Lake,2011,1.0
+Seidl Lake,2007,1.0
+Haughey Lake,2002,1.0
+Henry Lake,2008,1.0
+Henry Lake,2010,0.0
+Henry Lake,2011,1.0
+Henry Lake,2009,0.0
+Henry Lake,2006,2.0
+Henry Lake,1995,1.0
+Henry Lake,2007,1.0
+Henry Lake,2005,1.0
+Schultz Lake,1984,3.0
+Schultz Lake,1999,4.0
+Schultz Lake,1985,3.0
+Heims Lake,2009,2.0
+MacDonald Lake,2005,3.0
+MacDonald Lake,2006,4.0
+MacDonald Lake,2004,4.0
+MacDonald Lake,2007,3.0
+Campbell Lake,2006,0.0
+Campbell Lake,2002,1.0
+Campbell Lake,2005,0.0
+Campbell Lake,2000,0.0
+Minnetoga Lake,2013,2.0
+Minnetoga Lake,2008,3.0
+Minnetoga Lake,2010,3.0
+Minnetoga Lake,2011,2.0
+Minnetoga Lake,2014,3.0
+Minnetoga Lake,2007,2.0
+Minnetoga Lake,2012,3.0
+Goose Lake,1998,2.0
+Goose Lake,1994,2.0
+Goose Lake,2001,1.0
+Goose Lake,2006,1.0
+Goose Lake,1997,1.0
+Goose Lake,2005,1.0
+Goose Lake,2003,0.0
+Goose Lake,2007,1.0
+Goose Lake,1999,1.0
+Goose Lake,1995,1.6666666666666667
+Goose Lake,2000,0.0
+Goose Lake,2004,2.0
+Goose Lake,2002,1.0
+Bryant Lake,1991,2.0
+Riley Lake,2007,3.0
+Riley Lake,2004,2.0
+Riley Lake,2011,2.0
+Riley Lake,2013,2.0
+Riley Lake,2003,2.0
+Riley Lake,2006,3.0
+Riley Lake,2008,2.0
+Riley Lake,2010,2.0
+Riley Lake,2012,2.0
+Riley Lake,2009,2.0
+Riley Lake,2005,2.0
+Riley Lake,2014,2.0
+Sea Lake,2009,1.0
+Sea Lake,2008,2.0
+Pleasant Lake,1993,0.0
+Klawitter Pond,2009,1.0
+Klawitter Pond,2004,1.0
+Klawitter Pond,2005,1.0
+Klawitter Pond,2007,1.0
+Klawitter Pond,2006,1.0
+Klawitter Pond,2012,1.0
+Klawitter Pond,2002,2.0
+Klawitter Pond,2003,1.0
+Klawitter Pond,2013,2.0
+Klawitter Pond,2008,1.0
+Klawitter Pond,2010,1.0
+Klawitter Pond,2014,1.0
+Klawitter Pond,2011,1.0
+George Lake,1980,4.0
+George Lake,1998,4.0
+George Lake,1984,4.0
+George Lake,1994,4.0
+George Lake,1982,4.0
+George Lake,1981,4.0
+George Lake,2009,3.0
+George Lake,1989,4.0
+Shields Lake,1998,1.0
+Shields Lake,2007,1.0
+Shields Lake,1994,2.0
+Shields Lake,2002,1.0
+Shields Lake,2004,1.0
+Shields Lake,2003,1.0
+Shields Lake,2014,1.0
+Shields Lake,1999,1.0
+Shields Lake,2001,1.0
+Shields Lake,1996,2.0
+Shields Lake,1991,2.0
+Shields Lake,2006,1.0
+Shields Lake,2005,1.0
+Shields Lake,2012,1.0
+Shields Lake,1997,2.0
+Shields Lake,1995,2.0
+Shields Lake,2000,1.0
+Shields Lake,1993,1.0
+Shields Lake,2013,1.0
+Bone Lake,1998,2.0
+Bone Lake,2011,3.0
+Bone Lake,1999,2.0
+Bone Lake,1987,2.0
+Bone Lake,2006,2.0
+Bone Lake,1984,2.0
+Bone Lake,1988,2.0
+Bone Lake,2014,2.0
+Bone Lake,2013,2.0
+Bone Lake,2008,2.0
+Bone Lake,2003,2.0
+Bone Lake,2001,2.0
+Bone Lake,2009,2.0
+Bone Lake,2005,2.0
+Bone Lake,2007,2.0
+Bone Lake,1991,2.0
+Bone Lake,1993,2.0
+Bone Lake,1997,2.0
+Bone Lake,2002,2.0
+Bone Lake,2004,2.0
+Bone Lake,2010,2.0
+Bone Lake,1989,2.0
+Bone Lake,2012,2.0
+Susan Lake,2011,2.0
+Susan Lake,2009,2.0
+Susan Lake,2006,2.0
+Susan Lake,2008,1.0
+Susan Lake,2014,2.0
+Susan Lake,2013,2.0
+Susan Lake,2010,2.0
+Susan Lake,2012,1.0
+Susan Lake,2007,2.0
+Whaletail Lake,1985,1.0
+Whaletail Lake,2004,1.5
+Whaletail Lake,1998,2.0
+Whaletail Lake,1980,1.0
+Whaletail Lake,2001,2.0
+Whaletail Lake,2005,1.5
+Lee Lake,2012,2.0
+Lee Lake,1996,2.0
+Lee Lake,2002,2.0
+Lee Lake,1994,2.0
+Lee Lake,2004,2.0
+Lee Lake,2003,2.0
+Lee Lake,2006,2.0
+Lee Lake,2013,3.0
+Lee Lake,2007,2.0
+Lee Lake,2010,4.0
+Lee Lake,2001,2.0
+Lee Lake,2011,3.0
+Lee Lake,1995,2.0
+Lee Lake,2009,4.0
+Lee Lake,1997,2.0
+Lee Lake,2005,2.0
+Lee Lake,2008,2.0
+Lee Lake,2000,1.0
+Shavers Lake,2005,2.0
+Square Lake,1981,4.0
+Square Lake,2000,4.0
+Square Lake,2012,4.0
+Square Lake,1984,4.0
+Square Lake,1980,4.0
+Square Lake,1985,4.0
+Square Lake,1997,4.0
+Square Lake,2001,4.0
+Square Lake,1982,4.0
+Square Lake,2005,4.0
+Square Lake,2014,4.0
+Square Lake,1996,4.0
+Square Lake,1993,4.0
+Square Lake,1994,4.0
+Square Lake,2003,4.0
+Square Lake,2011,4.0
+Square Lake,2010,4.0
+Square Lake,1998,4.0
+Square Lake,1983,4.0
+Square Lake,1989,4.0
+Square Lake,1999,4.0
+Square Lake,2002,4.0
+Square Lake,2004,4.0
+Square Lake,2013,4.0
+Square Lake,1995,4.0
+Square Lake,2006,4.0
+Square Lake,2007,4.0
+Pierson Lake,1981,4.0
+Pierson Lake,1989,4.0
+Pierson Lake,1982,4.0
+Pierson Lake,2001,3.0
+Pierson Lake,2006,3.0
+Pierson Lake,1995,3.0
+Pierson Lake,2003,3.0
+Pierson Lake,1980,3.0
+Pierson Lake,2002,3.0
+O'Connors Lake,2011,3.0
+O'Connors Lake,2010,1.0
+O'Connors Lake,2007,2.0
+O'Connors Lake,2006,3.0
+O'Connors Lake,2013,3.0
+O'Connors Lake,2005,2.0
+O'Connors Lake,2009,1.0
+O'Connors Lake,2008,2.0
+Mooney Lake,1988,0.0
+Mooney Lake,1989,0.0
+Mooney Lake,1991,1.0
+Mooney Lake,1999,1.0
+Mooney Lake,1990,0.0
+Cloverdale Lake,2005,4.0
+Cloverdale Lake,2002,3.0
+Cloverdale Lake,2004,3.0
+Cloverdale Lake,2011,4.0
+Cloverdale Lake,2012,3.0
+Cloverdale Lake,2009,3.0
+Cloverdale Lake,2003,3.0
+Cloverdale Lake,2001,2.0
+Cloverdale Lake,2008,3.0
+Cloverdale Lake,2013,4.0
+Cloverdale Lake,2010,3.0
+Cloverdale Lake,2007,3.0
+Cloverdale Lake,2006,3.0
+West Lakeland Storage Site,2008,2.0
+West Lakeland Storage Site,2010,1.0
+West Lakeland Storage Site,2009,2.0
+Fish Lake,1998,1.0
+Fish Lake,2001,1.5
+Fish Lake,1999,1.0
+Fish Lake,2000,1.0
+Fish Lake,1997,2.0
+Anderson Pond,2011,2.0
+Anderson Pond,2014,2.0
+Anderson Pond,2010,2.0
+Pine Tree Lake,2012,4.0
+Pine Tree Lake,1998,3.0
+Pine Tree Lake,2009,4.0
+Pine Tree Lake,2002,2.0
+Pine Tree Lake,2008,3.0
+Pine Tree Lake,1999,3.0
+Pine Tree Lake,2000,3.0
+Pine Tree Lake,2005,3.0
+Pine Tree Lake,1995,2.0
+Pine Tree Lake,2007,3.0
+Pine Tree Lake,1996,2.0
+Pine Tree Lake,2001,3.0
+Pine Tree Lake,1985,1.0
+Pine Tree Lake,2003,2.0
+Pine Tree Lake,2013,4.0
+Pine Tree Lake,2014,3.0
+Pine Tree Lake,1993,3.0
+Pine Tree Lake,1997,3.0
+Pine Tree Lake,2011,3.0
+Pine Tree Lake,2010,4.0
+Pine Tree Lake,1994,3.0
+Pine Tree Lake,2006,3.0
+Pine Tree Lake,2004,3.0
+Pickerel Lake,1980,2.0
+Pickerel Lake,1995,3.0
+Pickerel Lake,2011,3.0
+Schutz Lake,2004,2.0
+Schutz Lake,2000,3.0
+Schutz Lake,2001,3.0
+Schutz Lake,1984,3.0
+Schutz Lake,2002,3.0
+Schutz Lake,2003,2.0
+Schutz Lake,2005,2.0
+Spring Lake,2002,0.0
+Spring Lake,1980,1.0
+Spring Lake,2005,2.0
+Spring Lake,2011,1.0
+Spring Lake,1997,1.0
+Spring Lake,1981,2.0
+Spring Lake,2009,1.0
+Spring Lake,1982,2.0
+Spring Lake,2004,1.0
+Spring Lake,2013,1.0
+Spring Lake,2001,2.0
+Spring Lake,2007,2.0
+Spring Lake,2006,2.0
+Spring Lake,1984,1.0
+Spring Lake,2000,1.0
+Spring Lake,2008,1.0
+Spring Lake,1996,1.0
+Spring Lake,2012,1.0
+Spring Lake,2003,2.0
+Spring Lake,2010,1.0
+White Rock Lake,2013,2.0
+White Rock Lake,2006,1.0
+White Rock Lake,2007,1.0
+White Rock Lake,2009,1.0
+White Rock Lake,2012,2.0
+White Rock Lake,2011,2.0
+White Rock Lake,2008,1.0
+White Rock Lake,2010,2.0
+Sunnybrook Lake,2005,3.0
+Sunnybrook Lake,1999,2.0
+Sunnybrook Lake,2010,4.0
+Sunnybrook Lake,2002,3.0
+Sunnybrook Lake,2011,3.0
+Sunnybrook Lake,2003,3.0
+Sunnybrook Lake,2006,3.0
+Sunnybrook Lake,2004,3.0
+Sunnybrook Lake,2007,3.0
+Sunnybrook Lake,2009,4.0
+Sunnybrook Lake,2012,4.0
+Sunnybrook Lake,2001,3.0
+Sunnybrook Lake,2008,4.0
+Echo Lake,2007,1.0
+Echo Lake,2006,1.0
+Echo Lake,2010,1.0
+Acorn Lake,2006,2.0
+Acorn Lake,2010,2.0
+Rest Area Pond,2006,1.0
+Rest Area Pond,2007,1.0
+Rest Area Pond,2008,0.0
+Rest Area Pond,2010,1.0
+Rest Area Pond,2011,2.0
+Rest Area Pond,2012,1.0
+Rest Area Pond,2014,2.0
+Rest Area Pond,2013,1.0
+Rest Area Pond,2009,0.0
+Edith Lake,2013,4.0
+Edith Lake,2011,3.0
+Edith Lake,2005,4.0
+Edith Lake,2006,3.0
+Edith Lake,2007,4.0
+Edith Lake,2008,3.0
+Edith Lake,2009,3.0
+Edith Lake,2014,4.0
+Edith Lake,2012,3.0
+Centerville Lake,1981,2.0
+Centerville Lake,2004,2.0
+Centerville Lake,1983,2.0
+Centerville Lake,1988,1.0
+Centerville Lake,2003,2.0
+Centerville Lake,1980,1.0
+Centerville Lake,2001,2.0
+Centerville Lake,2000,2.0
+Mud Lake,1996,1.0
+Mud Lake,1998,0.0
+Mud Lake,2010,1.0
+Mud Lake,2011,1.0
+Mud Lake,2001,0.0
+Mud Lake,2000,0.0
+Mud Lake,1999,0.0
+Mud Lake,1997,0.0
+Minnewashta Lake,1990,4.0
+Minnewashta Lake,1993,4.0
+Minnewashta Lake,2002,3.0
+Minnewashta Lake,1998,4.0
+Minnewashta Lake,1984,4.0
+Minnewashta Lake,1997,4.0
+Minnewashta Lake,1999,4.0
+Minnewashta Lake,2003,4.0
+West Boot Lake,2012,4.0
+West Boot Lake,1999,4.0
+West Boot Lake,2013,4.0
+West Boot Lake,1998,3.0
+West Boot Lake,2001,4.0
+West Boot Lake,2006,4.0
+West Boot Lake,1997,2.0
+West Boot Lake,2014,4.0
+West Boot Lake,1996,3.0
+West Boot Lake,2003,4.0
+West Boot Lake,2007,4.0
+West Boot Lake,2002,4.0
+West Boot Lake,2005,4.0
+West Boot Lake,2000,4.0
+West Boot Lake,2004,4.0
+Miller Lake,2001,1.0
+Miller Lake,1995,0.0
+Miller Lake,2014,1.0
+Miller Lake,2012,0.0
+Miller Lake,2011,1.0
+Miller Lake,2003,0.0
+Miller Lake,1999,1.0
+Miller Lake,2009,0.0
+Miller Lake,2013,1.0
+Miller Lake,2004,0.0
+Miller Lake,1996,0.0
+Miller Lake,2006,0.0
+Miller Lake,1997,1.0
+Miller Lake,2008,1.0
+Miller Lake,2000,1.0
+Miller Lake,2007,0.0
+Miller Lake,2010,1.0
+Miller Lake,2005,1.0
+Miller Lake,2002,1.0
+Dean Lake,2008,1.0
+Dean Lake,2002,0.0
+Dean Lake,2010,2.0
+Dean Lake,2005,1.0
+Dean Lake,2006,0.0
+Dean Lake,2003,1.0
+Dean Lake,2004,1.0
+Dean Lake,2007,0.0
+Sanborn Lake,2007,1.0
+Christmas Lake,1999,4.0
+Christmas Lake,2002,4.0
+Christmas Lake,1997,4.0
+Christmas Lake,1998,4.0
+Christmas Lake,1980,4.0
+Christmas Lake,2003,4.0
+Christmas Lake,1981,4.0
+Christmas Lake,1985,4.0
+Rose Lake,2008,0.3333333333333333
+Rose Lake,2009,0.0
+Rose Lake,2010,0.0
+Auburn Lake,1983,2.0
+Lynch Lake,2014,1.0
+Lynch Lake,2013,1.0
+Lynch Lake,2010,0.0
+Lynch Lake,2007,0.0
+Lynch Lake,2011,0.5
+Lynch Lake,2012,1.0
+Lynch Lake,2006,0.0
+Lynch Lake,2009,0.0
+Lynch Lake,2008,0.0
+Herber Pond,2007,1.0
+Herber Pond,2005,1.0
+Herber Pond,2006,2.0
+Herber Pond,2004,2.0
+Woodpile Lake,2014,3.0
+Woodpile Lake,2012,3.0
+Woodpile Lake,2006,2.0
+Woodpile Lake,2011,3.0
+Woodpile Lake,2013,4.0
+Woodpile Lake,2007,3.0
+Woodpile Lake,2009,3.0
+Woodpile Lake,2008,2.0
+Woodpile Lake,2010,2.0
+Fish Lake,1991,2.0
+Fish Lake,1995,2.0
+Laura Lake,2013,2.0
+Jonathan Lake,2008,0.0
+Jonathan Lake,2010,0.0
+Jonathan Lake,2002,1.0
+Jonathan Lake,2012,1.0
+Jonathan Lake,2006,0.0
+Jonathan Lake,2013,1.0
+Jonathan Lake,2011,0.0
+Jonathan Lake,2009,0.0
+Harvey Lake,2004,1.0
+Terrapin Lake,2007,3.0
+Terrapin Lake,2006,3.0
+Terrapin Lake,2004,4.0
+Terrapin Lake,2014,4.0
+Terrapin Lake,2005,4.0
+Birch Lake,2008,2.0
+Birch Lake,2006,1.0
+Birch Lake,2007,2.0
+Brick Pond,2008,2.0
+Brick Pond,2011,1.0
+Brick Pond,2010,2.0
+Brick Pond,2009,2.0
+Downs Lake,2005,1.0
+Downs Lake,2002,0.0
+Downs Lake,2009,0.0
+Downs Lake,2013,0.0
+Downs Lake,2004,0.0
+Downs Lake,2003,1.0
+Downs Lake,2014,1.0
+Downs Lake,1999,1.0
+Downs Lake,2006,0.0
+Downs Lake,2007,0.0
+Downs Lake,2001,0.0
+Downs Lake,2012,0.0
+Loon Lake,2006,0.0
+Loon Lake,2003,0.0
+Loon Lake,2007,0.0
+Loon Lake,2004,0.0
+Loon Lake,2005,0.0
+Loon Lake,2008,0.0
+Loon Lake,1997,0.0
+Loon Lake,2000,1.0
+Loon Lake,1999,0.0
+Loon Lake,2010,0.0
+Loon Lake,2009,0.0
+Loon Lake,2002,1.0
+Loon Lake,1998,0.0
+Loon Lake,2001,1.0
+Loon Lake,1996,0.0
+Halfbreed Lake,1993,4.0
+Halfbreed Lake,1989,4.0
+Halfbreed Lake,1996,4.0
+Halfbreed Lake,1998,4.0
+Halfbreed Lake,2002,4.0
+Halfbreed Lake,1986,3.0
+Halfbreed Lake,2005,4.0
+Halfbreed Lake,2010,4.0
+Halfbreed Lake,1991,4.0
+Halfbreed Lake,2000,4.0
+Halfbreed Lake,2011,4.0
+Halfbreed Lake,2003,4.0
+Halfbreed Lake,2013,4.0
+Halfbreed Lake,2014,4.0
+Halfbreed Lake,1999,4.0
+Halfbreed Lake,2008,4.0
+Halfbreed Lake,2009,4.0
+Halfbreed Lake,1987,4.0
+Halfbreed Lake,1988,4.0
+Halfbreed Lake,2001,4.0
+Halfbreed Lake,2007,4.0
+Halfbreed Lake,2004,4.0
+Halfbreed Lake,2012,4.0
+Little Johanna Lake,2002,2.0
+Little Johanna Lake,2009,2.0
+Little Johanna Lake,2006,2.0
+Little Johanna Lake,2013,2.0
+Little Johanna Lake,2001,2.0
+Little Johanna Lake,2008,2.0
+Little Johanna Lake,2004,2.0
+Little Johanna Lake,2011,2.0
+Little Johanna Lake,2005,2.0
+Little Johanna Lake,2003,2.0
+Little Johanna Lake,2012,2.0
+Little Johanna Lake,2010,2.0
+Lemay Lake,2008,3.0
+Lemay Lake,2010,3.0
+Lemay Lake,2009,3.0
+Lemay Lake,2011,3.0
+Lemay Lake,2007,2.0
+Lemay Lake,2013,3.0
+Sullivan Lake,1999,1.0
+Sullivan Lake,2002,0.0
+Sullivan Lake,1998,1.0
+Sullivan Lake,2003,1.0
+Sullivan Lake,1995,1.0
+Sullivan Lake,1997,1.0
+Sullivan Lake,2001,1.0
+Sullivan Lake,1994,1.0
+Sullivan Lake,2000,1.0
+Sullivan Lake,1993,1.0
+Parley Lake,1986,1.0
+Parley Lake,2006,1.0
+Parley Lake,1996,1.0
+Parley Lake,1991,1.0
+Parley Lake,1984,1.0
+Parley Lake,1999,1.0
+Parley Lake,2003,1.0
+Parley Lake,1987,1.0
+Red Rock Lake,2000,2.0
+Red Rock Lake,1999,2.0
+Red Rock Lake,2004,1.0
+Red Rock Lake,2003,1.0
+Red Rock Lake,2006,1.0
+Red Rock Lake,2014,2.0
+Island Lake,2008,3.0
+Island Lake,2005,2.0
+Island Lake,2009,2.0
+Island Lake,2004,3.0
+Island Lake,2010,2.0
+Island Lake,2007,3.0
+Island Lake,2011,2.0
+Island Lake,1983,2.0
+Island Lake,2006,2.0
+Island Lake,2003,3.0
+Island Lake,2012,3.0
+Courthouse Lake,1996,4.0
+Courthouse Lake,2007,4.0
+Courthouse Lake,2000,4.0
+Courthouse Lake,2011,4.0
+Courthouse Lake,2009,4.0
+Courthouse Lake,1997,3.0
+Courthouse Lake,2001,4.0
+Courthouse Lake,1998,4.0
+Courthouse Lake,2006,4.0
+Courthouse Lake,2012,4.0
+Courthouse Lake,2013,3.0
+Courthouse Lake,2004,4.0
+Courthouse Lake,2005,4.0
+Courthouse Lake,2010,4.0
+Courthouse Lake,2003,4.0
+Courthouse Lake,2008,4.0
+Courthouse Lake,2002,3.0
+Courthouse Lake,1999,4.0
+Courthouse Lake,2014,4.0
+Success Lake,2011,1.0
+Success Lake,2008,2.0
+Success Lake,2003,2.0
+Success Lake,1996,3.0
+Success Lake,2006,2.0
+Success Lake,2014,2.0
+Staring Lake,1999,1.0
+Staring Lake,2006,0.0
+Staring Lake,2001,1.0
+Staring Lake,2004,0.0
+Staring Lake,1980,1.0
+Staring Lake,1985,1.0
+Staring Lake,1995,1.0
+French Lake,2003,0.0
+French Lake,2001,1.0
+French Lake,2002,0.0
+French Lake,2004,0.0
+Louise Lake,2007,1.0
+Louise Lake,2008,1.0
+Louise Lake,2001,1.0
+Louise Lake,1999,1.0
+Louise Lake,1998,2.0
+Louise Lake,2011,2.0
+Louise Lake,2002,1.0
+Louise Lake,2010,1.0
+Louise Lake,2000,2.0
+Louise Lake,2009,1.0
+Louise Lake,1997,1.0
+Louise Lake,1996,2.0
+Twin Lake,2010,2.1666666666666665
+Twin Lake,1999,2.0
+Twin Lake,2002,1.3333333333333333
+Twin Lake,2008,1.8
+Twin Lake,2011,1.5
+Twin Lake,2012,1.0
+Twin Lake,1998,2.3333333333333335
+Twin Lake,2009,2.0
+Twin Lake,2001,3.0
+Twin Lake,2005,2.0
+Twin Lake,2007,1.5
+Twin Lake,1996,1.3333333333333333
+Twin Lake,2006,1.0
+Twin Lake,2000,1.3333333333333333
+Twin Lake,2003,2.0
+Twin Lake,1991,1.0
+Twin Lake,1997,3.5
+Twin Lake,1993,1.5
+Twin Lake,2013,3.0
+Twin Lake,2004,0.5
+Twin Lake,2014,2.5
+Kismet Lake,2008,2.0
+Kismet Lake,2009,2.0
+Kismet Lake,2000,2.0
+Kismet Lake,2002,2.0
+Kismet Lake,2005,2.0
+Kismet Lake,2001,2.0
+Kismet Lake,2010,2.0
+Kismet Lake,1998,2.0
+Kismet Lake,2003,3.0
+Kismet Lake,2004,3.0
+Kismet Lake,2011,2.0
+Kismet Lake,2006,2.0
+Kismet Lake,1999,2.0
+Kismet Lake,2007,2.0
+Big Marine Lake,2000,4.0
+Big Marine Lake,2007,4.0
+Big Marine Lake,1998,4.0
+Big Marine Lake,1989,4.0
+Big Marine Lake,2001,4.0
+Big Marine Lake,2011,4.0
+Big Marine Lake,1997,4.0
+Big Marine Lake,1996,4.0
+Big Marine Lake,2002,3.0
+Big Marine Lake,2004,4.0
+Big Marine Lake,1991,3.0
+Big Marine Lake,1999,3.0
+Big Marine Lake,2013,4.0
+Big Marine Lake,2003,4.0
+Big Marine Lake,1980,3.0
+Big Marine Lake,1984,3.0
+Big Marine Lake,2014,4.0
+Big Marine Lake,2005,4.0
+Big Marine Lake,1981,3.0
+Big Marine Lake,1994,4.0
+Big Marine Lake,2006,3.0
+Alimagnet Lake,1996,1.0
+Alimagnet Lake,2010,2.0
+Alimagnet Lake,2011,2.0
+Alimagnet Lake,1995,2.0
+Alimagnet Lake,2003,1.0
+Alimagnet Lake,2012,2.0
+Alimagnet Lake,2002,1.0
+Alimagnet Lake,1997,2.0
+Alimagnet Lake,2008,1.0
+Alimagnet Lake,2013,1.0
+Alimagnet Lake,2007,1.0
+Alimagnet Lake,1999,1.0
+Alimagnet Lake,2009,1.0
+Alimagnet Lake,2014,1.0
+Alimagnet Lake,1990,1.0
+Alimagnet Lake,2005,1.0
+Alimagnet Lake,1998,2.0
+Alimagnet Lake,2001,1.0
+Alimagnet Lake,2004,1.0
+Alimagnet Lake,2006,0.0
+Alimagnet Lake,2000,1.0
+Martin Lake,2000,1.0
+Martin Lake,1999,2.0
+Martin Lake,2001,1.0
+Martin Lake,2003,1.0
+Martin Lake,2008,1.0
+Martin Lake,2005,1.0
+Martin Lake,2007,1.0
+Martin Lake,1997,1.0
+Martin Lake,1998,1.0
+Martin Lake,1983,1.0
+South Twin Lake,2007,1.0
+South Twin Lake,1998,1.0
+South Twin Lake,1999,0.0
+South Twin Lake,2001,1.0
+South Twin Lake,1997,1.0
+South Twin Lake,2005,2.0
+South Twin Lake,2009,2.0
+South Twin Lake,2008,1.0
+South Twin Lake,1996,1.0
+South Twin Lake,2004,2.0
+South Twin Lake,2000,2.0
+South Twin Lake,2010,3.0
+South Twin Lake,2011,2.0
+South Twin Lake,2006,1.0
+Barker Lake,2008,1.0
+Barker Lake,1997,2.0
+Barker Lake,2013,2.0
+Barker Lake,2014,2.0
+Barker Lake,1999,1.0
+Barker Lake,2007,1.0
+Barker Lake,1998,2.0
+Barker Lake,2000,2.0
+Barker Lake,2001,2.0
+Valentine Lake,2006,2.0
+Valentine Lake,2002,2.0
+Valentine Lake,2003,2.0
+Valentine Lake,2001,2.0
+Valentine Lake,2007,2.0
+Valentine Lake,2005,2.0
+Valentine Lake,2008,2.0
+Valentine Lake,2004,2.0
+Ryan Lake,1996,2.0
+Ryan Lake,2002,3.0
+Ryan Lake,2010,3.0
+Ryan Lake,1998,3.0
+Ryan Lake,2003,3.0
+Ryan Lake,2000,1.0
+Ryan Lake,2008,3.0
+Lone Lake,2009,3.0
+Lone Lake,2011,3.0
+Lone Lake,2010,3.0
+Highland Lake,2002,0.0
+Highland Lake,2006,0.0
+Highland Lake,2007,0.0
+Highland Lake,2005,0.0
+Highland Lake,1999,1.0
+Highland Lake,2000,2.0
+Highland Lake,2001,1.0
+Highland Lake,2004,0.0
+Highland Lake,2003,0.0
+La Lake,1997,2.0
+La Lake,2010,2.0
+La Lake,2009,2.0
+La Lake,2007,1.0
+La Lake,2001,2.0
+La Lake,2006,2.0
+La Lake,2012,2.0
+La Lake,2003,2.0
+La Lake,1996,2.0
+La Lake,2011,2.0
+La Lake,2000,2.0
+La Lake,2002,2.0
+La Lake,2005,2.0
+La Lake,1995,3.0
+La Lake,2013,2.0
+La Lake,1994,2.0
+La Lake,1999,2.0
+La Lake,2008,2.0
+La Lake,1998,3.0
+Grace Lake,2009,1.0
+Grace Lake,2011,1.0
+Grace Lake,2007,1.0
+Grace Lake,2010,1.0
+Grace Lake,2012,1.0
+Grace Lake,2005,2.0
+Grace Lake,2008,1.0
+Grace Lake,2003,1.0
+Grace Lake,2014,1.0
+Grace Lake,2004,1.0
+Grace Lake,2013,1.0
+Diamond Lake,2004,0.0
+Diamond Lake,1994,1.0
+Diamond Lake,1980,0.0
+Cobblestone Lake,2010,2.0
+Cobblestone Lake,2011,2.0
+Cobblestone Lake,2012,2.0
+Cobblestone Lake,2006,2.0
+Cobblestone Lake,2013,2.0
+Cobblestone Lake,2007,2.0
+Cobblestone Lake,2008,2.0
+Cobblestone Lake,2014,2.0
+Cobblestone Lake,2005,1.0
+Cobblestone Lake,2009,2.0
+July Lake,2013,1.0
+July Lake,2008,2.0
+July Lake,2007,0.0
+July Lake,2014,1.0
+July Lake,2006,0.0
+July Lake,2012,1.0
+July Lake,2011,1.0
+Eagle Lake,2009,1.5
+Eagle Lake,2007,0.0
+Eagle Lake,1996,2.0
+Eagle Lake,2000,2.0
+Eagle Lake,2008,0.0
+Eagle Lake,1985,0.0
+Eagle Lake,1999,1.0
+Eagle Lake,2002,1.0
+Eagle Lake,1983,2.0
+Eagle Lake,2010,1.0
+Eagle Lake,1991,2.0
+Eagle Lake,2001,1.0
+Eagle Lake,1997,3.0
+Eagle Lake,2006,0.0
+Eagle Lake,1987,2.0
+Eagle Lake,1998,2.0
+Eagle Lake,2005,2.5
+Eagle Lake,1980,1.0
+Eagle Lake,1981,1.0
+Eagle Lake,2012,1.0
+Eagle Lake,2003,1.0
+Eagle Lake,1993,3.0
+Eagle Lake,2011,0.0
+Eagle Lake,1986,2.0
+Eagle Lake,2014,0.0
+Eagle Lake,2004,1.0
+Eagle Lake,2013,1.0
+Oak Lake,2006,1.3333333333333333
+Oak Lake,2007,0.0
+Oak Lake,2008,1.0
+Oak Lake,2004,1.0
+Oak Lake,2003,2.0
+Oak Lake,2002,2.0
+Oak Lake,2005,2.0
+Goose Lake,2009,0.5
+Goose Lake,2013,0.75
+Goose Lake,2008,0.5
+Goose Lake,2014,1.5
+Goose Lake,2011,1.0
+Goose Lake,2012,0.5
+Goose Lake,2010,0.5
+Bay Pond,2006,0.0
+Bay Pond,2009,0.0
+Bay Pond,2008,0.0
+Bay Pond,2013,1.0
+Bay Pond,2014,0.0
+Bay Pond,2007,0.0
+Bay Pond,2010,0.0
+Bay Pond,2012,0.0
+Lost Lake,1982,0.0
+Legion Pond,2006,1.0
+Legion Pond,2008,1.0
+Legion Pond,2005,1.0
+O'Dowd Lake,1997,2.0
+O'Dowd Lake,1984,2.0
+O'Dowd Lake,2000,2.0
+O'Dowd Lake,2010,2.0
+O'Dowd Lake,2002,1.0
+O'Dowd Lake,2012,2.0
+O'Dowd Lake,2006,1.0
+O'Dowd Lake,1994,2.0
+O'Dowd Lake,2008,2.0
+O'Dowd Lake,2014,3.0
+O'Dowd Lake,2009,2.0
+O'Dowd Lake,2013,2.0
+O'Dowd Lake,2005,2.0
+O'Dowd Lake,2011,2.0
+O'Dowd Lake,2007,2.0
+Big Comfort Lake,2003,2.0
+Big Comfort Lake,2012,2.0
+Big Comfort Lake,2002,2.0
+Big Comfort Lake,2008,3.0
+Big Comfort Lake,2007,3.0
+Big Comfort Lake,1994,2.0
+Big Comfort Lake,2000,2.0
+Big Comfort Lake,2005,3.0
+Big Comfort Lake,2009,3.0
+Big Comfort Lake,2011,2.0
+Big Comfort Lake,2013,3.0
+Big Comfort Lake,2004,2.0
+Big Comfort Lake,2006,2.0
+Big Comfort Lake,2001,3.0
+Big Comfort Lake,2014,2.0
+Big Comfort Lake,2010,3.0
+Smetana Lake,2013,3.0
+Forest Lake,1989,3.0
+Forest Lake,1984,2.0
+Forest Lake,1996,2.0
+Forest Lake,1986,2.0
+Forest Lake,1993,2.0
+Forest Lake,2008,3.0
+Forest Lake,2002,2.6666666666666665
+Forest Lake,2013,2.6666666666666665
+Forest Lake,1991,2.0
+Forest Lake,2014,2.6666666666666665
+Forest Lake,2000,2.0
+Forest Lake,2006,2.0
+Forest Lake,2003,2.0
+Forest Lake,2005,2.0
+Forest Lake,2012,2.3333333333333335
+Forest Lake,2001,3.0
+Forest Lake,2011,2.0
+Forest Lake,2007,2.0
+Forest Lake,1998,3.0
+Forest Lake,2010,3.0
+Forest Lake,2004,3.0
+Forest Lake,2009,3.0
+Forest Lake,1995,3.0
+Forest Lake,1988,2.0
+Forest Lake,1997,3.0
+Forest Lake,1999,2.0
+Crystal Lake,1999,2.0
+Crystal Lake,2013,3.0
+Crystal Lake,2011,3.0
+Crystal Lake,2002,2.0
+Crystal Lake,2008,2.0
+Crystal Lake,1994,1.5
+Crystal Lake,1997,2.0
+Crystal Lake,2005,1.5
+Crystal Lake,2003,2.0
+Crystal Lake,2012,2.0
+Crystal Lake,1998,2.0
+Crystal Lake,2010,1.5
+Crystal Lake,2014,3.0
+Crystal Lake,2001,2.0
+Crystal Lake,2004,2.0
+Crystal Lake,1995,2.0
+Crystal Lake,1988,0.0
+Crystal Lake,2006,2.0
+Crystal Lake,1980,2.0
+Crystal Lake,1987,1.0
+Crystal Lake,1992,1.0
+Crystal Lake,2000,2.0
+Crystal Lake,2009,3.0
+Crystal Lake,2007,2.0
+Crystal Lake,1983,3.0
+Crystal Lake,1996,2.0
+Crystal Lake,1986,1.0
+Crystal Lake,1989,3.0
+Plaisted Lake,2011,2.0
+Plaisted Lake,2009,2.0
+Plaisted Lake,2012,2.0
+Plaisted Lake,2010,2.0
+Plaisted Lake,2008,2.0
+Plaisted Lake,2013,2.0
+Olson Lake,1993,3.0
+Olson Lake,1991,3.0
+Olson Lake,2007,3.0
+Olson Lake,2011,4.0
+Olson Lake,2003,4.0
+Olson Lake,2009,4.0
+Olson Lake,2004,4.0
+Olson Lake,2005,3.0
+Olson Lake,2010,3.0
+Olson Lake,2000,4.0
+Olson Lake,2012,3.0
+Olson Lake,2014,4.0
+Olson Lake,2006,3.0
+Olson Lake,1995,3.0
+Olson Lake,2008,4.0
+Olson Lake,1984,2.0
+Olson Lake,2013,4.0
+Goggins Lake,2006,1.0
+Goggins Lake,2000,1.0
+Goggins Lake,2014,1.0
+Goggins Lake,2011,2.0
+Goggins Lake,2009,1.0
+Goggins Lake,2002,1.0
+Goggins Lake,2010,1.0
+Goggins Lake,2004,2.0
+Goggins Lake,2008,1.0
+Goggins Lake,1999,2.0
+Goggins Lake,2003,2.0
+Goggins Lake,2001,1.0
+Goggins Lake,2007,1.0
+Goggins Lake,2012,2.0
+Goggins Lake,2005,2.0
+Goggins Lake,2013,2.0
+Sunfish Lake,2013,1.5
+Sunfish Lake,2008,1.5
+Sunfish Lake,2005,1.0
+Sunfish Lake,2000,2.0
+Sunfish Lake,2007,2.0
+Sunfish Lake,2012,2.5
+Sunfish Lake,2006,1.5
+Sunfish Lake,2011,2.5
+Sunfish Lake,2010,2.0
+Sunfish Lake,2014,2.0
+Sunfish Lake,2009,3.0
+Winkler Lake,2008,0.0
+Winkler Lake,2010,0.0
+Winkler Lake,2001,1.0
+Winkler Lake,2005,0.0
+Winkler Lake,2011,0.0
+Winkler Lake,2003,0.0
+Winkler Lake,1999,0.0
+Winkler Lake,1995,2.0
+Winkler Lake,2007,1.0
+Winkler Lake,2000,0.0
+Maria Lake,2012,0.0
+Maria Lake,2005,0.0
+Maria Lake,2001,1.0
+Maria Lake,2000,0.0
+Cody Lake,2007,0.0
+Scout Lake,2014,1.0
+Scout Lake,2009,1.0
+Scout Lake,2013,2.0
+Scout Lake,2007,1.0
+Scout Lake,2010,1.0
+Scout Lake,2008,2.0
+Scout Lake,2011,0.0
+Scout Lake,2012,1.0
+School Lake,2005,2.0
+School Lake,2006,2.0
+School Lake,2007,2.0
+School Lake,2009,2.0
+Marion Lake,2005,2.0
+Marion Lake,2013,3.0
+Marion Lake,2004,2.0
+Marion Lake,1981,1.0
+Marion Lake,2006,2.0
+Marion Lake,1983,2.0
+Marion Lake,2010,2.0
+Marion Lake,2011,3.0
+Marion Lake,1994,3.0
+Marion Lake,2012,3.0
+Marion Lake,1999,3.0
+Marion Lake,2003,2.0
+Marion Lake,2009,2.0
+Marion Lake,1987,2.0
+Marion Lake,1980,2.0
+Marion Lake,1989,2.0
+Marion Lake,2001,3.0
+Marion Lake,2002,2.0
+Marion Lake,2007,2.0
+Marion Lake,2008,2.0
+Marion Lake,2000,3.0
+Marion Lake,2014,4.0
+Laddie Lake,1980,1.0
+Laddie Lake,1993,3.0
+Laddie Lake,2000,3.0
+Laddie Lake,2001,3.0
+Laddie Lake,1994,3.0
+Laddie Lake,2002,3.0
+Laddie Lake,1995,3.0
+Laddie Lake,2003,3.0
+Cedar Lake,2013,1.0
+Cedar Lake,2012,1.0
+Cedar Lake,2014,1.5
+McDonald Lake,2005,2.0
+McDonald Lake,2013,2.0
+McDonald Lake,2004,3.0
+McDonald Lake,2007,1.0
+McDonald Lake,2002,2.0
+McDonald Lake,2011,1.0
+McDonald Lake,2001,2.0
+McDonald Lake,2009,2.0
+McDonald Lake,2014,2.0
+McDonald Lake,2003,2.0
+McDonald Lake,1999,2.0
+McDonald Lake,2008,2.0
+McDonald Lake,2012,2.0
+McDonald Lake,2006,2.0
+Orchard Lake,1980,2.0
+Orchard Lake,1999,2.0
+Orchard Lake,1983,3.0
+Orchard Lake,2001,3.0
+Orchard Lake,2006,3.0
+Orchard Lake,1993,2.0
+Orchard Lake,2009,4.0
+Orchard Lake,1981,3.0
+Orchard Lake,2005,3.0
+Orchard Lake,2000,2.0
+Orchard Lake,2003,2.0
+Orchard Lake,2010,4.0
+Orchard Lake,2012,3.0
+Orchard Lake,1989,3.0
+Orchard Lake,1998,2.0
+Orchard Lake,2007,2.0
+Orchard Lake,2014,4.0
+Orchard Lake,2011,3.0
+Orchard Lake,2013,4.0
+Orchard Lake,2008,4.0
+Orchard Lake,2004,3.0
+McMahon Lake,2005,1.0
+McMahon Lake,2010,2.0
+McMahon Lake,1984,1.0
+McMahon Lake,2014,2.0
+McMahon Lake,2009,2.0
+McMahon Lake,1998,1.0
+McMahon Lake,2001,1.0
+McMahon Lake,2013,2.0
+McMahon Lake,2008,1.0
+McMahon Lake,2012,2.0
+McMahon Lake,2006,1.0
+McMahon Lake,2011,2.0
+McMahon Lake,2007,2.0
+McMahon Lake,1995,1.0
+McMahon Lake,1980,1.0
+Long Lake,1999,0.6666666666666666
+Long Lake,1998,0.0
+Farquar Lake,2002,0.0
+Farquar Lake,1999,0.0
+Farquar Lake,2014,1.0
+Farquar Lake,2011,0.0
+Farquar Lake,2012,0.0
+Farquar Lake,1995,1.0
+Farquar Lake,2005,0.0
+Farquar Lake,2009,0.0
+Farquar Lake,2013,1.0
+Farquar Lake,2004,0.0
+Farquar Lake,2008,1.0
+Farquar Lake,2000,0.0
+Farquar Lake,2006,1.0
+Farquar Lake,2003,0.0
+Farquar Lake,2007,0.0
+Farquar Lake,1996,2.0
+Farquar Lake,1994,2.0
+Farquar Lake,2010,1.0
+Farquar Lake,1997,1.0
+Farquar Lake,2001,0.0
+Fish Lake,1984,1.0
+Fish Lake,1980,2.0
+Byllesby Lake,1995,1.0
+Byllesby Lake,1993,1.0
+Byllesby Lake,1994,1.0
+Sed Basin Adj to Valley Lake,2003,3.0
+Sed Basin Adj to Valley Lake,2001,3.0
+Sed Basin Adj to Valley Lake,1995,1.0
+Sed Basin Adj to Valley Lake,2004,2.0
+Sed Basin Adj to Valley Lake,2000,2.0
+Sed Basin Adj to Valley Lake,1996,1.0
+Sed Basin Adj to Valley Lake,2002,3.0
+Sed Basin Adj to Valley Lake,2005,2.0
+Sed Basin Adj to Valley Lake,1997,2.0
+McDonough Lake,1985,3.0
+McDonough Lake,1999,2.0
+Capaul Pond,2008,1.5
+Capaul Pond,2010,0.0
+Sand Lake,2003,2.0
+Sand Lake,2002,2.0
+Sand Lake,2005,2.0
+Sand Lake,2014,2.0
+Sand Lake,1995,2.0
+Sand Lake,2004,3.0
+Sand Lake,2006,2.0
+Sand Lake,1994,2.0
+Sand Lake,1993,2.0
+Sand Lake,2010,2.0
+Sand Lake,2009,3.0
+Sand Lake,2007,3.0
+Sand Lake,1996,2.0
+Sand Lake,2008,2.0
+Auburn Lake,1989,2.0
+Auburn Lake,1986,3.0
+Auburn Lake,1987,3.0
+Auburn Lake,1994,3.0
+Forest Lake,1980,2.0
+Crooked Lake,1989,2.0
+Crooked Lake,1994,3.0
+Crooked Lake,1993,3.0
+Crooked Lake,1995,3.0
+Crooked Lake,1998,3.0
+Crooked Lake,1999,3.0
+Crooked Lake,1997,3.0
+Crooked Lake,1996,3.0
+Crooked Lake,1983,2.0
+Bald Eagle Lake,1981,2.0
+Bald Eagle Lake,1994,2.0
+Bald Eagle Lake,1984,2.0
+Bald Eagle Lake,1996,2.0
+Bald Eagle Lake,2001,1.0
+Bald Eagle Lake,2004,2.0
+Bald Eagle Lake,1990,2.0
+Bald Eagle Lake,1992,2.0
+Bald Eagle Lake,1999,2.0
+Bald Eagle Lake,1983,2.0
+Bald Eagle Lake,1995,2.0
+Bald Eagle Lake,1997,2.0
+Bald Eagle Lake,2005,1.5
+Bald Eagle Lake,1991,2.0
+Bald Eagle Lake,1998,2.0
+Bald Eagle Lake,1980,1.0
+Bald Eagle Lake,1986,2.0
+Bald Eagle Lake,1989,2.0
+Bald Eagle Lake,1993,3.0
+Bald Eagle Lake,1988,2.0
+Bald Eagle Lake,2000,2.0
+Cobblecrest Lake,2006,0.0
+Cobblecrest Lake,2009,0.0
+Cobblecrest Lake,2011,1.0
+Cobblecrest Lake,2004,0.0
+Cobblecrest Lake,2013,1.0
+Cobblecrest Lake,2002,2.0
+Cobblecrest Lake,2008,0.0
+Cobblecrest Lake,2005,0.0
+Cobblecrest Lake,2007,0.0
+Cobblecrest Lake,2010,0.0
+Eagle Point Lake,2007,2.0
+Eagle Point Lake,2012,0.0
+Eagle Point Lake,2011,1.0
+Eagle Point Lake,2006,0.0
+Pepin Lake,2007,0.0
+Long Lake,2010,2.4
+Long Lake,2001,1.0
+Long Lake,2012,1.75
+Long Lake,2013,2.25
+Long Lake,2008,2.5
+Long Lake,2006,1.8333333333333333
+Long Lake,2007,2.0
+Long Lake,2004,2.0
+Long Lake,2011,2.0
+Long Lake,2014,1.8
+Long Lake,2000,1.0
+Long Lake,2002,1.25
+Long Lake,2009,2.3333333333333335
+Long Lake,2005,1.6666666666666667
+Long Lake,1997,1.5
+Shady Oak Lake,2009,4.0
+Shady Oak Lake,2010,4.0
+Wing Lake,2007,1.0
+Wing Lake,2013,1.0
+Wing Lake,2006,1.0
+Wing Lake,2012,1.0
+Wing Lake,2008,1.0
+Wing Lake,2010,1.0
+Wing Lake,2009,1.0
+Wing Lake,2011,1.0
+Moore Lake,1983,2.0
+Moore Lake,1981,2.0
+Moore Lake,1994,2.0
+Moore Lake,1993,2.0
+Moore Lake,1982,2.0
+Moore Lake,1980,2.0
+Fahlstrom Pond,2009,1.0
+Pamela Pond,2004,2.0
+Pamela Pond,2005,2.0
+Lotus Lake,1999,2.0
+Lotus Lake,2003,1.0
+Lotus Lake,2009,2.0
+Lotus Lake,2004,2.0
+Lotus Lake,2007,2.0
+Lotus Lake,2011,2.0
+Lotus Lake,1985,2.0
+Lotus Lake,2006,2.0
+Lotus Lake,2010,2.0
+Lotus Lake,2008,2.0
+Lotus Lake,2000,2.0
+Lotus Lake,2005,2.0
+Staples Lake,2001,3.0
+Staples Lake,2004,3.0
+Staples Lake,2007,3.0
+Staples Lake,2005,4.0
+Staples Lake,1997,3.0
+Staples Lake,1999,3.0
+Staples Lake,2006,3.0
+Staples Lake,2000,3.0
+Staples Lake,1998,3.0
+Burandt Lake,2005,2.0
+Burandt Lake,2011,2.0
+Burandt Lake,2010,2.0
+Burandt Lake,2014,2.0
+Burandt Lake,2000,2.0
+Burandt Lake,1999,1.0
+Burandt Lake,2001,2.0
+Burandt Lake,2004,2.0
+Burandt Lake,2013,2.0
+Waconia Lake,2012,3.0
+Waconia Lake,2009,3.0
+Waconia Lake,2010,2.0
+Waconia Lake,1981,3.0
+Waconia Lake,1985,3.0
+Waconia Lake,2004,3.0
+Waconia Lake,1995,3.0
+Waconia Lake,2014,2.0
+Waconia Lake,2013,3.0
+Waconia Lake,1998,2.0
+Waconia Lake,1999,2.0
+Waconia Lake,2005,3.0
+Waconia Lake,1994,4.0
+Waconia Lake,2006,2.0
+Waconia Lake,2000,2.0
+Waconia Lake,1996,3.0
+Waconia Lake,1980,2.0
+Waconia Lake,2007,2.0
+Waconia Lake,2008,2.0
+Waconia Lake,2001,3.0
+Waconia Lake,2002,3.0
+Waconia Lake,2003,2.0
+Waconia Lake,1997,3.0
+Waconia Lake,2011,2.0
+Magda Lake,2000,1.0
+Magda Lake,2003,0.0
+Magda Lake,2006,0.0
+Magda Lake,2009,1.0
+Magda Lake,1999,1.0
+Magda Lake,2012,0.0
+Lochness Lake,2009,2.0
+Lochness Lake,2008,3.0
+Lochness Lake,2014,2.0
+Lochness Lake,2010,3.0
+Lochness Lake,2011,2.0
+Lochness Lake,2012,2.0
+Lochness Lake,2007,4.0
+Lochness Lake,2013,2.0
+Glen Lake,2006,3.0
+Glen Lake,2007,4.0
+Pat Lake,2012,3.0
+Pat Lake,2007,3.0
+Pat Lake,2011,3.0
+Pat Lake,2006,2.0
+Pat Lake,2013,2.0
+Pat Lake,2009,2.0
+Pat Lake,2010,2.0
+Pat Lake,2008,2.0
+Pat Lake,2014,3.0
+Langton Lake,2008,2.0
+Langton Lake,2005,1.3333333333333333
+Langton Lake,2009,2.0
+Langton Lake,2010,2.0
+Langton Lake,2007,2.0
+Langton Lake,2011,2.0
+Bass Lake,2001,2.0
+Bass Lake,2005,2.0
+Bass Lake,2003,2.0
+Bass Lake,2002,1.0
+Bass Lake,2004,3.0
+Bass Lake,1994,2.0
+Bass Lake,2000,2.0
+Cornelia Lake,2009,1.0
+Cornelia Lake,2006,0.0
+Cornelia Lake,2007,0.0
+Cornelia Lake,2008,1.0
+Cornelia Lake,2003,0.0
+Cornelia Lake,2014,1.0
+Cornelia Lake,2005,0.0
+Meadow Lake,2008,0.0
+Meadow Lake,2011,0.0
+Meadow Lake,1996,0.0
+Meadow Lake,1999,0.0
+Meadow Lake,2005,0.0
+Meadow Lake,2002,0.0
+Minnewashta Lake,2013,3.0
+Minnewashta Lake,2011,4.0
+Minnewashta Lake,2010,3.0
+Minnewashta Lake,2014,4.0
+Minnewashta Lake,2012,3.0
+Raven Lake,1995,2.0
+Raven Lake,1997,2.0
+Raven Lake,1996,2.0
+Markley Lake,1999,2.0
+Markley Lake,2003,2.0
+Markley Lake,2004,2.0
+Markley Lake,1998,2.0
+Markley Lake,2001,2.0
+Markley Lake,2002,2.0
+Markley Lake,2007,2.0
+Markley Lake,2000,2.0
+Markley Lake,1997,2.0
+Markley Lake,2006,2.0
+South School Section Lake,2008,2.0
+South School Section Lake,1998,2.0
+South School Section Lake,2013,2.0
+South School Section Lake,2010,2.0
+South School Section Lake,2011,2.0
+South School Section Lake,1996,2.0
+South School Section Lake,2005,2.0
+South School Section Lake,2007,2.0
+South School Section Lake,2006,2.0
+South School Section Lake,1995,2.0
+South School Section Lake,2012,2.0
+South School Section Lake,2009,3.0
+Bavaria Lake,1998,4.0
+Bavaria Lake,1987,2.0
+Bavaria Lake,1996,3.0
+Bavaria Lake,2008,2.0
+Bavaria Lake,2013,2.0
+Bavaria Lake,1999,3.0
+Bavaria Lake,2004,3.0
+Bavaria Lake,2009,3.0
+Bavaria Lake,2014,2.0
+Bavaria Lake,2001,3.0
+Bavaria Lake,2000,3.0
+Bavaria Lake,2012,2.0
+Bavaria Lake,1986,2.0
+Bavaria Lake,2011,3.0
+Bavaria Lake,2005,2.0
+Bavaria Lake,2006,3.0
+Bavaria Lake,2007,3.0
+Bavaria Lake,1983,2.0
+Bavaria Lake,1994,3.0
+Bavaria Lake,1997,4.0
+Bavaria Lake,2010,3.0
+Bavaria Lake,2002,3.0
+Bavaria Lake,2003,3.0
+Thole Lake,2011,2.0
+Thole Lake,2002,1.0
+Thole Lake,2006,1.0
+Thole Lake,1997,2.0
+Thole Lake,2000,1.0
+Thole Lake,1984,1.0
+Thole Lake,1994,1.0
+Thole Lake,2005,1.0
+Peltier Lake,1996,1.0
+Peltier Lake,2000,1.0
+Peltier Lake,2003,1.0
+Peltier Lake,2001,0.0
+Peltier Lake,2004,1.0
+Peltier Lake,1995,1.0
+Peltier Lake,1998,1.0
+Peltier Lake,2007,1.0
+Peltier Lake,1997,1.0
+Peltier Lake,1994,0.0
+Peltier Lake,1999,1.0
+Peltier Lake,1983,1.0
+Peltier Lake,2002,0.0
+Peltier Lake,2005,1.0
+Peltier Lake,2006,0.0
+Peltier Lake,1993,1.0
+Swede Lake,2004,0.0
+Swede Lake,1996,0.0
+Swede Lake,2002,1.0
+Swede Lake,2012,0.0
+Swede Lake,2001,1.0
+Swede Lake,2014,1.0
+Swede Lake,2010,0.0
+Swede Lake,2008,0.0
+Swede Lake,2006,0.0
+Swede Lake,2011,0.0
+Swede Lake,2003,0.0
+Swede Lake,2013,0.0
+Swede Lake,2007,0.0
+Swede Lake,2005,1.0
+Swede Lake,2009,0.0
+Linwood Lake,1997,2.0
+Linwood Lake,1983,2.0
+Linwood Lake,2008,2.0
+Linwood Lake,1989,2.0
+Linwood Lake,1994,2.0
+Linwood Lake,1980,3.0
+Linwood Lake,1981,2.0
+Armstrong Lake,2006,2.0
+Armstrong Lake,2008,2.0
+Armstrong Lake,2009,2.0
+Armstrong Lake,2005,2.0
+Armstrong Lake,2010,2.0
+Armstrong Lake,2007,1.0
+Armstrong Lake,2011,2.0
+Armstrong Lake,2001,1.0
+Armstrong Lake,2003,2.0
+Armstrong Lake,1999,1.0
+Armstrong Lake,2012,2.0
+Armstrong Lake,2000,2.0
+Armstrong Lake,2002,2.0
+Armstrong Lake,1998,1.0
+Armstrong Lake,2004,2.0
+Penn Lake,2010,0.0
+Penn Lake,2009,0.0
+Penn Lake,2012,0.0
+Penn Lake,2013,1.0
+Westwood Lake,1993,2.0
+Westwood Lake,2012,2.0
+Westwood Lake,2009,2.0
+Westwood Lake,1982,1.0
+Westwood Lake,2004,3.0
+Westwood Lake,2006,2.0
+Westwood Lake,2007,2.0
+Westwood Lake,2001,2.0
+Westwood Lake,2008,3.0
+Westwood Lake,2003,3.0
+Westwood Lake,2000,3.0
+Westwood Lake,2002,2.0
+Westwood Lake,2011,2.0
+Westwood Lake,2005,2.0
+Westwood Lake,2010,3.0
+Riley Lake,2002,2.0
+Riley Lake,1991,2.0
+Riley Lake,1986,2.0
+Riley Lake,1997,2.0
+Riley Lake,1993,2.0
+Riley Lake,2000,2.0
+Riley Lake,1982,2.0
+Riley Lake,1984,2.0
+Riley Lake,1983,2.0
+Riley Lake,1985,2.0
+Riley Lake,1987,2.0
+Sunset Lake,1993,2.0
+Sunset Lake,2004,4.0
+Sunset Lake,2011,3.0
+Sunset Lake,1995,2.0
+Sunset Lake,1996,2.0
+Sunset Lake,2014,4.0
+Sunset Lake,2002,4.0
+Sunset Lake,2005,4.0
+Sunset Lake,1994,3.0
+Sunset Lake,2012,4.0
+Sunset Lake,2009,4.0
+Sunset Lake,1998,2.0
+Sunset Lake,2013,4.0
+Sunset Lake,2001,4.0
+Sunset Lake,2000,3.0
+Sunset Lake,2008,4.0
+Sunset Lake,1999,2.0
+Sunset Lake,2006,4.0
+Sunset Lake,2007,4.0
+Sunset Lake,2003,4.0
+Sunset Lake,1984,2.0
+Sunset Lake,1997,2.0
+Rogers Lake,2007,2.0
+Rogers Lake,2010,3.0
+Rogers Lake,2009,3.0
+Rogers Lake,2011,3.0
+Rogers Lake,2008,3.0
+Cedar Island Lake,2003,0.0
+Cedar Island Lake,1995,0.0
+Cedar Island Lake,1984,2.0
+Cedar Island Lake,2006,0.0
+Cedar Island Lake,2009,0.0
+Cedar Island Lake,2001,1.0
+Ohmans Lake,2012,4.0
+Ohmans Lake,2013,3.5
+Mitchell Lake,2010,2.0
+Mitchell Lake,2004,2.0
+Mitchell Lake,2013,2.0
+Mitchell Lake,2005,2.0
+Mitchell Lake,2007,2.0
+Mitchell Lake,2000,1.0
+Mitchell Lake,2008,2.0
+Mitchell Lake,1995,2.0
+Mitchell Lake,2003,1.0
+Mitchell Lake,1999,1.0
+Mitchell Lake,2014,2.0
+Mitchell Lake,2011,2.0
+Mitchell Lake,2012,2.0
+Mitchell Lake,1991,2.0
+Mitchell Lake,2006,1.0
+Mitchell Lake,2009,2.0
+George Watch Lake,2004,0.0
+George Watch Lake,1983,1.0
+George Watch Lake,2006,0.0
+George Watch Lake,1981,0.0
+George Watch Lake,1998,0.0
+George Watch Lake,2013,0.0
+George Watch Lake,1982,1.0
+George Watch Lake,1985,1.0
+George Watch Lake,2005,1.0
+George Watch Lake,1991,0.0
+George Watch Lake,2001,0.0
+George Watch Lake,2009,1.0
+George Watch Lake,2007,0.0
+George Watch Lake,2010,1.0
+George Watch Lake,2008,1.0
+George Watch Lake,2000,1.0
+George Watch Lake,1996,0.0
+George Watch Lake,1990,1.0
+George Watch Lake,1997,1.0
+George Watch Lake,1999,1.0
+George Watch Lake,2002,1.0
+George Watch Lake,2003,1.0
+George Watch Lake,2011,1.0
+George Watch Lake,2012,0.0
+George Watch Lake,1989,0.0
+George Watch Lake,1987,1.0
+George Watch Lake,1988,1.0
+Sweeney Lake,2012,2.0
+Sweeney Lake,2004,2.0
+Sweeney Lake,2011,2.0
+Sweeney Lake,2009,2.0
+Sweeney Lake,2007,2.0
+Sweeney Lake,2008,2.0
+Sweeney Lake,2014,2.0
+Sweeney Lake,2001,2.0
+Sweeney Lake,2000,2.0
+Sweeney Lake,2006,1.0
+Sweeney Lake,2010,2.0
+Sweeney Lake,2002,2.0
+Sweeney Lake,2013,2.0
+Sweeney Lake,2005,2.0
+Sweeney Lake,2003,2.0
+Wasserman Lake,1999,1.0
+Wasserman Lake,1987,2.0
+Wasserman Lake,1983,1.0
+Wasserman Lake,1998,1.0
+Wasserman Lake,2003,2.0
+Wasserman Lake,2002,2.0
+Wasserman Lake,1986,2.0
+Wasserman Lake,1994,2.0
+Wasserman Lake,2006,2.0
+Wasserman Lake,1997,2.0
+Little Carnelian Lake,1996,4.0
+Little Carnelian Lake,2004,4.0
+Little Carnelian Lake,2007,4.0
+Little Carnelian Lake,2005,4.0
+Little Carnelian Lake,2002,4.0
+Little Carnelian Lake,2000,4.0
+Little Carnelian Lake,2006,4.0
+Little Carnelian Lake,1997,4.0
+Little Carnelian Lake,1991,4.0
+Little Carnelian Lake,2013,4.0
+Little Carnelian Lake,2001,4.0
+Little Carnelian Lake,2003,4.0
+Little Carnelian Lake,2014,4.0
+Little Carnelian Lake,1992,4.0
+Golden Lake,1999,2.0
+Golden Lake,1993,1.0
+Golden Lake,2005,2.0
+Golden Lake,2001,1.0
+Golden Lake,1980,1.0
+Golden Lake,2003,1.0
+Golden Lake,1985,1.0
+Golden Lake,2006,2.0
+Golden Lake,1986,2.0
+Golden Lake,1989,0.0
+Golden Lake,1987,1.0
+Golden Lake,1996,2.0
+Golden Lake,1988,0.0
+Golden Lake,2004,1.0
+Golden Lake,2010,2.0
+Golden Lake,2007,2.0
+Golden Lake,2002,1.0
+Golden Lake,1991,0.0
+Golden Lake,2009,2.0
+Golden Lake,2008,2.0
+Golden Lake,1990,0.0
+Golden Lake,2000,2.0
+Golden Lake,1997,1.0
+Golden Lake,1998,2.0
